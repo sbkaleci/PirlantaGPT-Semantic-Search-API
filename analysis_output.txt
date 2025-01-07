@@ -1,0 +1,3756 @@
+=== Analyzing 'books\Asrın Getirdiği Tereddütler-1 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 126
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 62
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 529
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1242
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2182
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 602
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 442
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1125
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1885
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1417
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2816
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1606
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 530
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1984
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 2840
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 3169
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 2472
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 797
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1353
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1526
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1402
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 764
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 570
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 705
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 375
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1457
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1798
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1321
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 825
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1307
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1092
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 728
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1500
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 411
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1703
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 495
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 37
+ Min Word Count: 0
+ Max Word Count: 3169
+ Average Words: 1220.49
+ Median Words: 1242.00
+
+=== Analyzing 'books\Asrın Getirdiği Tereddütler-2 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 126
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 62
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 395
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1654
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3571
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 2178
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1703
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 789
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2852
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 3834
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1296
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1439
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 4832
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1409
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1871
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 513
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1588
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1007
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 444
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1644
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 2073
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1193
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 882
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 581
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1037
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1100
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1178
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1244
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 963
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 2475
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1406
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 840
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1514
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 2342
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1070
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1071
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 37
+ Min Word Count: 0
+ Max Word Count: 4832
+ Average Words: 1464.22
+ Median Words: 1244.00
+
+=== Analyzing 'books\Asrın Getirdiği Tereddütler-3 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 133
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 62
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 655
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 952
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2563
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1027
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2617
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 766
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1668
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 924
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 977
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 588
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 600
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 766
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 674
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1379
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1291
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 632
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 554
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 404
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1181
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 656
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 715
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 751
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1175
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 497
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 387
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1704
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1272
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1842
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1699
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1979
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 5369
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 345
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 7725
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1949
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 964
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 38
+ Min Word Count: 0
+ Max Word Count: 7725
+ Average Words: 1301.11
+ Median Words: 938.00
+
+=== Analyzing 'books\Asrın Getirdiği Tereddütler-4 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 133
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 62
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 651
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 3486
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1516
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1234
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2444
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2446
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1210
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 996
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1944
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 2295
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 658
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2431
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1912
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1500
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1464
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 3049
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1659
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 585
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 263
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 3142
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 2234
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 886
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 890
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 2128
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1247
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 2087
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1230
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 693
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 897
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1825
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1697
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1698
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 871
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 3409
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 578
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 38
+ Min Word Count: 0
+ Max Word Count: 3486
+ Average Words: 1511.84
+ Median Words: 1482.00
+
+=== Analyzing 'books\Beyan - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 125
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 2498
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1853
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2141
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1293
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 2643
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2084
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2184
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1732
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1854
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2019
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1764
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1445
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2474
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1669
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1366
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1522
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1284
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 2951
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1086
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1477
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1600
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1054
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1041
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1266
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1152
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 27
+ Min Word Count: 0
+ Max Word Count: 2951
+ Average Words: 1613.96
+ Median Words: 1600.00
+
+=== Analyzing 'books\Bir Kırık Dilekçe - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 1130
+  Sub-chapter 2: 'File_2_7' => Word Count: 137
+  Sub-chapter 3: 'File_3_8' => Word Count: 8773
+  Sub-chapter 4: 'File_4_72' => Word Count: 10150
+  Sub-chapter 5: 'File_5_119 -' => Word Count: 1691
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 6
+ Min Word Count: 0
+ Max Word Count: 10150
+ Average Words: 3646.83
+ Median Words: 1410.50
+
+=== Analyzing 'books\Bir İ'caz Hecelemesi - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 0
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 6
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 69
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 14
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2649
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 0
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 3513
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 3955
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 21055
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 8127
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 9268
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 2851
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 5993
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 3504
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 6445
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 10158
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 5110
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 12162
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 6209
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1040
+
+--- Summary ---
+ Total Sub-chapters: 20
+ Min Word Count: 0
+ Max Word Count: 21055
+ Average Words: 5106.40
+ Median Words: 3734.00
+
+=== Analyzing 'books\Dua Ufku - M. Fethullah Gulen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 90
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 93
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1903
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 119
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 172
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 158
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 669
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 102
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 122
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 190
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1304
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1854
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2025
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 81
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 303
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1178
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1678
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 18
+ Min Word Count: 0
+ Max Word Count: 2025
+ Average Words: 668.94
+ Median Words: 181.00
+
+=== Analyzing 'books\Enginligiyle Bizim Dünyamız - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 129
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 2835
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 253
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 6071
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2529
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 7202
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 12716
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1531
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 3735
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2859
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 3666
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 7891
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 5971
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 4732
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 3166
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 8567
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1787
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 9076
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 3442
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1818
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 7340
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1685
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 7032
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2754
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 522
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1057
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 27
+ Min Word Count: 0
+ Max Word Count: 12716
+ Average Words: 4087.63
+ Median Words: 3166.00
+
+=== Analyzing 'books\Fasıldan Fasıla-1 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 0
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 897
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 51
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 62
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 148
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 108
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 340
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 66
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 132
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 70
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 68
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 43
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 104
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 84
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 35
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 293
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 127
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 100
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 78
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 70
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 50
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 70
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 147
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 41
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 53
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 160
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 71
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 95
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 55
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 215
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 65
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 123
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 347
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 36
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 196
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 71
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 144
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 93
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 138
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 210
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 55
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 57
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 28
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 52
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 130
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 63
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 34
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 39
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 47
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 92
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 114
+  Sub-chapter 52: 'File_52_NoHeading' => Word Count: 103
+  Sub-chapter 53: 'File_53_NoHeading' => Word Count: 36
+  Sub-chapter 54: 'File_54_NoHeading' => Word Count: 103
+  Sub-chapter 55: 'File_55_NoHeading' => Word Count: 70
+  Sub-chapter 56: 'File_56_NoHeading' => Word Count: 62
+  Sub-chapter 57: 'File_57_NoHeading' => Word Count: 80
+  Sub-chapter 58: 'File_58_NoHeading' => Word Count: 71
+  Sub-chapter 59: 'File_59_NoHeading' => Word Count: 73
+  Sub-chapter 60: 'File_60_NoHeading' => Word Count: 221
+  Sub-chapter 61: 'File_61_NoHeading' => Word Count: 73
+  Sub-chapter 62: 'File_62_NoHeading' => Word Count: 106
+  Sub-chapter 63: 'File_63_NoHeading' => Word Count: 71
+  Sub-chapter 64: 'File_64_NoHeading' => Word Count: 117
+  Sub-chapter 65: 'File_65_NoHeading' => Word Count: 179
+  Sub-chapter 66: 'File_66_NoHeading' => Word Count: 132
+  Sub-chapter 67: 'File_67_NoHeading' => Word Count: 271
+  Sub-chapter 68: 'File_68_NoHeading' => Word Count: 54
+  Sub-chapter 69: 'File_69_NoHeading' => Word Count: 141
+  Sub-chapter 70: 'File_70_NoHeading' => Word Count: 116
+  Sub-chapter 71: 'File_71_NoHeading' => Word Count: 71
+  Sub-chapter 72: 'File_72_NoHeading' => Word Count: 74
+  Sub-chapter 73: 'File_73_NoHeading' => Word Count: 65
+  Sub-chapter 74: 'File_74_NoHeading' => Word Count: 47
+  Sub-chapter 75: 'File_75_NoHeading' => Word Count: 29
+  Sub-chapter 76: 'File_76_NoHeading' => Word Count: 162
+  Sub-chapter 77: 'File_77_NoHeading' => Word Count: 202
+  Sub-chapter 78: 'File_78_NoHeading' => Word Count: 31
+  Sub-chapter 79: 'File_79_NoHeading' => Word Count: 75
+  Sub-chapter 80: 'File_80_NoHeading' => Word Count: 239
+  Sub-chapter 81: 'File_81_NoHeading' => Word Count: 263
+  Sub-chapter 82: 'File_82_NoHeading' => Word Count: 41
+  Sub-chapter 83: 'File_83_NoHeading' => Word Count: 32
+  Sub-chapter 84: 'File_84_NoHeading' => Word Count: 98
+  Sub-chapter 85: 'File_85_NoHeading' => Word Count: 69
+  Sub-chapter 86: 'File_86_NoHeading' => Word Count: 34
+  Sub-chapter 87: 'File_87_NoHeading' => Word Count: 247
+  Sub-chapter 88: 'File_88_NoHeading' => Word Count: 48
+  Sub-chapter 89: 'File_89_NoHeading' => Word Count: 48
+  Sub-chapter 90: 'File_90_NoHeading' => Word Count: 32
+  Sub-chapter 91: 'File_91_NoHeading' => Word Count: 100
+  Sub-chapter 92: 'File_92_NoHeading' => Word Count: 102
+  Sub-chapter 93: 'File_93_NoHeading' => Word Count: 37
+  Sub-chapter 94: 'File_94_NoHeading' => Word Count: 155
+  Sub-chapter 95: 'File_95_NoHeading' => Word Count: 102
+  Sub-chapter 96: 'File_96_NoHeading' => Word Count: 29
+  Sub-chapter 97: 'File_97_NoHeading' => Word Count: 79
+  Sub-chapter 98: 'File_98_NoHeading' => Word Count: 86
+  Sub-chapter 99: 'File_99_NoHeading' => Word Count: 31
+  Sub-chapter 100: 'File_100_NoHeading' => Word Count: 78
+  Sub-chapter 101: 'File_101_NoHeading' => Word Count: 250
+  Sub-chapter 102: 'File_102_NoHeading' => Word Count: 85
+  Sub-chapter 103: 'File_103_NoHeading' => Word Count: 45
+  Sub-chapter 104: 'File_104_NoHeading' => Word Count: 43
+  Sub-chapter 105: 'File_105_NoHeading' => Word Count: 49
+  Sub-chapter 106: 'File_106_NoHeading' => Word Count: 77
+  Sub-chapter 107: 'File_107_NoHeading' => Word Count: 124
+  Sub-chapter 108: 'File_108_NoHeading' => Word Count: 21
+  Sub-chapter 109: 'File_109_NoHeading' => Word Count: 46
+  Sub-chapter 110: 'File_110_NoHeading' => Word Count: 92
+  Sub-chapter 111: 'File_111_NoHeading' => Word Count: 159
+  Sub-chapter 112: 'File_112_NoHeading' => Word Count: 60
+  Sub-chapter 113: 'File_113_NoHeading' => Word Count: 137
+  Sub-chapter 114: 'File_114_NoHeading' => Word Count: 117
+  Sub-chapter 115: 'File_115_NoHeading' => Word Count: 44
+  Sub-chapter 116: 'File_116_NoHeading' => Word Count: 48
+  Sub-chapter 117: 'File_117_NoHeading' => Word Count: 106
+  Sub-chapter 118: 'File_118_NoHeading' => Word Count: 40
+  Sub-chapter 119: 'File_119_NoHeading' => Word Count: 318
+  Sub-chapter 120: 'File_120_NoHeading' => Word Count: 59
+  Sub-chapter 121: 'File_121_NoHeading' => Word Count: 88
+  Sub-chapter 122: 'File_122_NoHeading' => Word Count: 88
+  Sub-chapter 123: 'File_123_NoHeading' => Word Count: 97
+  Sub-chapter 124: 'File_124_NoHeading' => Word Count: 95
+  Sub-chapter 125: 'File_125_NoHeading' => Word Count: 72
+  Sub-chapter 126: 'File_126_NoHeading' => Word Count: 289
+  Sub-chapter 127: 'File_127_NoHeading' => Word Count: 193
+  Sub-chapter 128: 'File_128_NoHeading' => Word Count: 107
+  Sub-chapter 129: 'File_129_NoHeading' => Word Count: 471
+  Sub-chapter 130: 'File_130_NoHeading' => Word Count: 144
+  Sub-chapter 131: 'File_131_NoHeading' => Word Count: 20
+  Sub-chapter 132: 'File_132_NoHeading' => Word Count: 77
+  Sub-chapter 133: 'File_133_NoHeading' => Word Count: 126
+  Sub-chapter 134: 'File_134_NoHeading' => Word Count: 42
+  Sub-chapter 135: 'File_135_NoHeading' => Word Count: 22
+  Sub-chapter 136: 'File_136_NoHeading' => Word Count: 127
+  Sub-chapter 137: 'File_137_NoHeading' => Word Count: 44
+  Sub-chapter 138: 'File_138_NoHeading' => Word Count: 78
+  Sub-chapter 139: 'File_139_NoHeading' => Word Count: 161
+  Sub-chapter 140: 'File_140_NoHeading' => Word Count: 112
+  Sub-chapter 141: 'File_141_NoHeading' => Word Count: 45
+  Sub-chapter 142: 'File_142_NoHeading' => Word Count: 189
+  Sub-chapter 143: 'File_143_NoHeading' => Word Count: 72
+  Sub-chapter 144: 'File_144_NoHeading' => Word Count: 53
+  Sub-chapter 145: 'File_145_NoHeading' => Word Count: 70
+  Sub-chapter 146: 'File_146_NoHeading' => Word Count: 52
+  Sub-chapter 147: 'File_147_NoHeading' => Word Count: 136
+  Sub-chapter 148: 'File_148_NoHeading' => Word Count: 288
+  Sub-chapter 149: 'File_149_NoHeading' => Word Count: 238
+  Sub-chapter 150: 'File_150_NoHeading' => Word Count: 156
+  Sub-chapter 151: 'File_151_NoHeading' => Word Count: 177
+  Sub-chapter 152: 'File_152_NoHeading' => Word Count: 190
+  Sub-chapter 153: 'File_153_NoHeading' => Word Count: 175
+  Sub-chapter 154: 'File_154_NoHeading' => Word Count: 86
+  Sub-chapter 155: 'File_155_NoHeading' => Word Count: 53
+  Sub-chapter 156: 'File_156_NoHeading' => Word Count: 57
+  Sub-chapter 157: 'File_157_NoHeading' => Word Count: 166
+  Sub-chapter 158: 'File_158_NoHeading' => Word Count: 169
+  Sub-chapter 159: 'File_159_NoHeading' => Word Count: 50
+  Sub-chapter 160: 'File_160_NoHeading' => Word Count: 61
+  Sub-chapter 161: 'File_161_NoHeading' => Word Count: 106
+  Sub-chapter 162: 'File_162_NoHeading' => Word Count: 30
+  Sub-chapter 163: 'File_163_NoHeading' => Word Count: 32
+  Sub-chapter 164: 'File_164_NoHeading' => Word Count: 88
+  Sub-chapter 165: 'File_165_NoHeading' => Word Count: 111
+  Sub-chapter 166: 'File_166_NoHeading' => Word Count: 118
+  Sub-chapter 167: 'File_167_NoHeading' => Word Count: 61
+  Sub-chapter 168: 'File_168_NoHeading' => Word Count: 57
+  Sub-chapter 169: 'File_169_NoHeading' => Word Count: 168
+  Sub-chapter 170: 'File_170_NoHeading' => Word Count: 92
+  Sub-chapter 171: 'File_171_NoHeading' => Word Count: 210
+  Sub-chapter 172: 'File_172_NoHeading' => Word Count: 141
+  Sub-chapter 173: 'File_173_NoHeading' => Word Count: 93
+  Sub-chapter 174: 'File_174_NoHeading' => Word Count: 36
+  Sub-chapter 175: 'File_175_NoHeading' => Word Count: 90
+  Sub-chapter 176: 'File_176_NoHeading' => Word Count: 142
+  Sub-chapter 177: 'File_177_NoHeading' => Word Count: 51
+  Sub-chapter 178: 'File_178_NoHeading' => Word Count: 169
+  Sub-chapter 179: 'File_179_NoHeading' => Word Count: 150
+  Sub-chapter 180: 'File_180_NoHeading' => Word Count: 64
+  Sub-chapter 181: 'File_181_NoHeading' => Word Count: 63
+  Sub-chapter 182: 'File_182_NoHeading' => Word Count: 77
+  Sub-chapter 183: 'File_183_NoHeading' => Word Count: 191
+  Sub-chapter 184: 'File_184_NoHeading' => Word Count: 87
+  Sub-chapter 185: 'File_185_NoHeading' => Word Count: 166
+  Sub-chapter 186: 'File_186_NoHeading' => Word Count: 27
+  Sub-chapter 187: 'File_187_NoHeading' => Word Count: 303
+  Sub-chapter 188: 'File_188_NoHeading' => Word Count: 34
+  Sub-chapter 189: 'File_189_NoHeading' => Word Count: 241
+  Sub-chapter 190: 'File_190_NoHeading' => Word Count: 57
+  Sub-chapter 191: 'File_191_NoHeading' => Word Count: 84
+  Sub-chapter 192: 'File_192_NoHeading' => Word Count: 23
+  Sub-chapter 193: 'File_193_NoHeading' => Word Count: 66
+  Sub-chapter 194: 'File_194_NoHeading' => Word Count: 168
+  Sub-chapter 195: 'File_195_NoHeading' => Word Count: 57
+  Sub-chapter 196: 'File_196_NoHeading' => Word Count: 69
+  Sub-chapter 197: 'File_197_NoHeading' => Word Count: 144
+  Sub-chapter 198: 'File_198_NoHeading' => Word Count: 159
+  Sub-chapter 199: 'File_199_NoHeading' => Word Count: 181
+  Sub-chapter 200: 'File_200_NoHeading' => Word Count: 26
+  Sub-chapter 201: 'File_201_NoHeading' => Word Count: 127
+  Sub-chapter 202: 'File_202_NoHeading' => Word Count: 163
+  Sub-chapter 203: 'File_203_NoHeading' => Word Count: 230
+  Sub-chapter 204: 'File_204_NoHeading' => Word Count: 95
+  Sub-chapter 205: 'File_205_NoHeading' => Word Count: 75
+  Sub-chapter 206: 'File_206_NoHeading' => Word Count: 117
+  Sub-chapter 207: 'File_207_NoHeading' => Word Count: 122
+  Sub-chapter 208: 'File_208_NoHeading' => Word Count: 98
+  Sub-chapter 209: 'File_209_NoHeading' => Word Count: 26
+  Sub-chapter 210: 'File_210_NoHeading' => Word Count: 49
+  Sub-chapter 211: 'File_211_NoHeading' => Word Count: 240
+  Sub-chapter 212: 'File_212_NoHeading' => Word Count: 155
+  Sub-chapter 213: 'File_213_NoHeading' => Word Count: 74
+  Sub-chapter 214: 'File_214_NoHeading' => Word Count: 95
+  Sub-chapter 215: 'File_215_NoHeading' => Word Count: 97
+  Sub-chapter 216: 'File_216_NoHeading' => Word Count: 326
+  Sub-chapter 217: 'File_217_NoHeading' => Word Count: 160
+  Sub-chapter 218: 'File_218_NoHeading' => Word Count: 164
+  Sub-chapter 219: 'File_219_NoHeading' => Word Count: 42
+  Sub-chapter 220: 'File_220_NoHeading' => Word Count: 235
+  Sub-chapter 221: 'File_221_NoHeading' => Word Count: 179
+  Sub-chapter 222: 'File_222_NoHeading' => Word Count: 52
+  Sub-chapter 223: 'File_223_NoHeading' => Word Count: 38
+  Sub-chapter 224: 'File_224_NoHeading' => Word Count: 49
+  Sub-chapter 225: 'File_225_NoHeading' => Word Count: 127
+  Sub-chapter 226: 'File_226_NoHeading' => Word Count: 39
+  Sub-chapter 227: 'File_227_NoHeading' => Word Count: 138
+  Sub-chapter 228: 'File_228_NoHeading' => Word Count: 200
+  Sub-chapter 229: 'File_229_NoHeading' => Word Count: 169
+  Sub-chapter 230: 'File_230_NoHeading' => Word Count: 87
+  Sub-chapter 231: 'File_231_NoHeading' => Word Count: 192
+  Sub-chapter 232: 'File_232_NoHeading' => Word Count: 192
+  Sub-chapter 233: 'File_233_NoHeading' => Word Count: 102
+  Sub-chapter 234: 'File_234_NoHeading' => Word Count: 87
+  Sub-chapter 235: 'File_235_NoHeading' => Word Count: 100
+  Sub-chapter 236: 'File_236_NoHeading' => Word Count: 119
+  Sub-chapter 237: 'File_237_NoHeading' => Word Count: 340
+  Sub-chapter 238: 'File_238_NoHeading' => Word Count: 228
+  Sub-chapter 239: 'File_239_NoHeading' => Word Count: 69
+  Sub-chapter 240: 'File_240_NoHeading' => Word Count: 24
+  Sub-chapter 241: 'File_241_NoHeading' => Word Count: 87
+  Sub-chapter 242: 'File_242_NoHeading' => Word Count: 65
+  Sub-chapter 243: 'File_243_NoHeading' => Word Count: 42
+  Sub-chapter 244: 'File_244_NoHeading' => Word Count: 345
+  Sub-chapter 245: 'File_245_NoHeading' => Word Count: 153
+  Sub-chapter 246: 'File_246_NoHeading' => Word Count: 69
+  Sub-chapter 247: 'File_247_NoHeading' => Word Count: 195
+  Sub-chapter 248: 'File_248_NoHeading' => Word Count: 261
+  Sub-chapter 249: 'File_249_NoHeading' => Word Count: 133
+  Sub-chapter 250: 'File_250_NoHeading' => Word Count: 94
+  Sub-chapter 251: 'File_251_NoHeading' => Word Count: 86
+  Sub-chapter 252: 'File_252_NoHeading' => Word Count: 118
+  Sub-chapter 253: 'File_253_NoHeading' => Word Count: 33
+  Sub-chapter 254: 'File_254_NoHeading' => Word Count: 87
+  Sub-chapter 255: 'File_255_NoHeading' => Word Count: 62
+  Sub-chapter 256: 'File_256_NoHeading' => Word Count: 305
+  Sub-chapter 257: 'File_257_NoHeading' => Word Count: 60
+  Sub-chapter 258: 'File_258_NoHeading' => Word Count: 153
+  Sub-chapter 259: 'File_259_NoHeading' => Word Count: 228
+  Sub-chapter 260: 'File_260_NoHeading' => Word Count: 113
+  Sub-chapter 261: 'File_261_NoHeading' => Word Count: 148
+  Sub-chapter 262: 'File_262_NoHeading' => Word Count: 273
+  Sub-chapter 263: 'File_263_NoHeading' => Word Count: 106
+  Sub-chapter 264: 'File_264_NoHeading' => Word Count: 61
+  Sub-chapter 265: 'File_265_NoHeading' => Word Count: 204
+  Sub-chapter 266: 'File_266_NoHeading' => Word Count: 36
+  Sub-chapter 267: 'File_267_NoHeading' => Word Count: 157
+  Sub-chapter 268: 'File_268_NoHeading' => Word Count: 291
+  Sub-chapter 269: 'File_269_NoHeading' => Word Count: 43
+  Sub-chapter 270: 'File_270_NoHeading' => Word Count: 55
+  Sub-chapter 271: 'File_271_NoHeading' => Word Count: 25
+  Sub-chapter 272: 'File_272_NoHeading' => Word Count: 99
+  Sub-chapter 273: 'File_273_NoHeading' => Word Count: 278
+  Sub-chapter 274: 'File_274_NoHeading' => Word Count: 120
+  Sub-chapter 275: 'File_275_NoHeading' => Word Count: 99
+  Sub-chapter 276: 'File_276_NoHeading' => Word Count: 100
+  Sub-chapter 277: 'File_277_NoHeading' => Word Count: 60
+  Sub-chapter 278: 'File_278_NoHeading' => Word Count: 80
+  Sub-chapter 279: 'File_279_NoHeading' => Word Count: 87
+  Sub-chapter 280: 'File_280_NoHeading' => Word Count: 81
+  Sub-chapter 281: 'File_281_NoHeading' => Word Count: 49
+  Sub-chapter 282: 'File_282_NoHeading' => Word Count: 65
+  Sub-chapter 283: 'File_283_NoHeading' => Word Count: 42
+  Sub-chapter 284: 'File_284_NoHeading' => Word Count: 111
+  Sub-chapter 285: 'File_285_NoHeading' => Word Count: 260
+  Sub-chapter 286: 'File_286_NoHeading' => Word Count: 117
+  Sub-chapter 287: 'File_287_NoHeading' => Word Count: 382
+  Sub-chapter 288: 'File_288_NoHeading' => Word Count: 130
+  Sub-chapter 289: 'File_289_NoHeading' => Word Count: 373
+  Sub-chapter 290: 'File_290_NoHeading' => Word Count: 80
+  Sub-chapter 291: 'File_291_NoHeading' => Word Count: 90
+  Sub-chapter 292: 'File_292_NoHeading' => Word Count: 123
+  Sub-chapter 293: 'File_293_NoHeading' => Word Count: 127
+  Sub-chapter 294: 'File_294_NoHeading' => Word Count: 115
+  Sub-chapter 295: 'File_295_NoHeading' => Word Count: 36
+
+--- Summary ---
+ Total Sub-chapters: 295
+ Min Word Count: 0
+ Max Word Count: 897
+ Average Words: 116.11
+ Median Words: 92.00
+
+=== Analyzing 'books\Fasıldan Fasıla-2 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 654
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 104
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 187
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 93
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 58
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 229
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 315
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 87
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 336
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 280
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 80
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 160
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 38
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 127
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 236
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 50
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 17
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 97
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 248
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 232
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 112
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 150
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 48
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 363
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 139
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 5373
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 365
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 135
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 296
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 88
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 79
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 269
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 63
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 94
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 105
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 223
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 765
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 35
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 236
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 244
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 224
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 73
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 753
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 90
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 117
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 39
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 103
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 77
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 112
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 69
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 49
+  Sub-chapter 52: 'File_52_NoHeading' => Word Count: 31
+  Sub-chapter 53: 'File_53_NoHeading' => Word Count: 120
+  Sub-chapter 54: 'File_54_NoHeading' => Word Count: 136
+  Sub-chapter 55: 'File_55_NoHeading' => Word Count: 176
+  Sub-chapter 56: 'File_56_NoHeading' => Word Count: 53
+  Sub-chapter 57: 'File_57_NoHeading' => Word Count: 348
+  Sub-chapter 58: 'File_58_NoHeading' => Word Count: 40
+  Sub-chapter 59: 'File_59_NoHeading' => Word Count: 61
+  Sub-chapter 60: 'File_60_NoHeading' => Word Count: 104
+  Sub-chapter 61: 'File_61_NoHeading' => Word Count: 691
+  Sub-chapter 62: 'File_62_NoHeading' => Word Count: 47
+  Sub-chapter 63: 'File_63_NoHeading' => Word Count: 106
+  Sub-chapter 64: 'File_64_NoHeading' => Word Count: 307
+  Sub-chapter 65: 'File_65_NoHeading' => Word Count: 146
+  Sub-chapter 66: 'File_66_NoHeading' => Word Count: 89
+  Sub-chapter 67: 'File_67_NoHeading' => Word Count: 206
+  Sub-chapter 68: 'File_68_NoHeading' => Word Count: 102
+  Sub-chapter 69: 'File_69_NoHeading' => Word Count: 136
+  Sub-chapter 70: 'File_70_NoHeading' => Word Count: 74
+  Sub-chapter 71: 'File_71_NoHeading' => Word Count: 72
+  Sub-chapter 72: 'File_72_NoHeading' => Word Count: 659
+  Sub-chapter 73: 'File_73_NoHeading' => Word Count: 54
+  Sub-chapter 74: 'File_74_NoHeading' => Word Count: 94
+  Sub-chapter 75: 'File_75_NoHeading' => Word Count: 339
+  Sub-chapter 76: 'File_76_NoHeading' => Word Count: 409
+  Sub-chapter 77: 'File_77_NoHeading' => Word Count: 179
+  Sub-chapter 78: 'File_78_NoHeading' => Word Count: 209
+  Sub-chapter 79: 'File_79_NoHeading' => Word Count: 239
+  Sub-chapter 80: 'File_80_NoHeading' => Word Count: 21
+  Sub-chapter 81: 'File_81_NoHeading' => Word Count: 172
+  Sub-chapter 82: 'File_82_NoHeading' => Word Count: 258
+  Sub-chapter 83: 'File_83_NoHeading' => Word Count: 68
+  Sub-chapter 84: 'File_84_NoHeading' => Word Count: 222
+  Sub-chapter 85: 'File_85_NoHeading' => Word Count: 42
+  Sub-chapter 86: 'File_86_NoHeading' => Word Count: 73
+  Sub-chapter 87: 'File_87_NoHeading' => Word Count: 173
+  Sub-chapter 88: 'File_88_NoHeading' => Word Count: 136
+  Sub-chapter 89: 'File_89_NoHeading' => Word Count: 24
+  Sub-chapter 90: 'File_90_NoHeading' => Word Count: 116
+  Sub-chapter 91: 'File_91_NoHeading' => Word Count: 628
+  Sub-chapter 92: 'File_92_NoHeading' => Word Count: 646
+  Sub-chapter 93: 'File_93_NoHeading' => Word Count: 102
+  Sub-chapter 94: 'File_94_NoHeading' => Word Count: 123
+  Sub-chapter 95: 'File_95_NoHeading' => Word Count: 23
+  Sub-chapter 96: 'File_96_NoHeading' => Word Count: 54
+  Sub-chapter 97: 'File_97_NoHeading' => Word Count: 43
+  Sub-chapter 98: 'File_98_NoHeading' => Word Count: 23
+  Sub-chapter 99: 'File_99_NoHeading' => Word Count: 131
+  Sub-chapter 100: 'File_100_NoHeading' => Word Count: 26
+  Sub-chapter 101: 'File_101_NoHeading' => Word Count: 276
+  Sub-chapter 102: 'File_102_NoHeading' => Word Count: 309
+  Sub-chapter 103: 'File_103_NoHeading' => Word Count: 47
+  Sub-chapter 104: 'File_104_NoHeading' => Word Count: 52
+  Sub-chapter 105: 'File_105_NoHeading' => Word Count: 174
+  Sub-chapter 106: 'File_106_NoHeading' => Word Count: 190
+  Sub-chapter 107: 'File_107_NoHeading' => Word Count: 71
+  Sub-chapter 108: 'File_108_NoHeading' => Word Count: 138
+  Sub-chapter 109: 'File_109_NoHeading' => Word Count: 37
+  Sub-chapter 110: 'File_110_NoHeading' => Word Count: 168
+  Sub-chapter 111: 'File_111_NoHeading' => Word Count: 73
+  Sub-chapter 112: 'File_112_NoHeading' => Word Count: 438
+  Sub-chapter 113: 'File_113_NoHeading' => Word Count: 66
+  Sub-chapter 114: 'File_114_NoHeading' => Word Count: 255
+  Sub-chapter 115: 'File_115_NoHeading' => Word Count: 164
+  Sub-chapter 116: 'File_116_NoHeading' => Word Count: 67
+  Sub-chapter 117: 'File_117_NoHeading' => Word Count: 564
+  Sub-chapter 118: 'File_118_NoHeading' => Word Count: 717
+  Sub-chapter 119: 'File_119_NoHeading' => Word Count: 454
+  Sub-chapter 120: 'File_120_NoHeading' => Word Count: 296
+  Sub-chapter 121: 'File_121_NoHeading' => Word Count: 97
+  Sub-chapter 122: 'File_122_NoHeading' => Word Count: 71
+  Sub-chapter 123: 'File_123_NoHeading' => Word Count: 143
+  Sub-chapter 124: 'File_124_NoHeading' => Word Count: 150
+  Sub-chapter 125: 'File_125_NoHeading' => Word Count: 95
+  Sub-chapter 126: 'File_126_NoHeading' => Word Count: 135
+  Sub-chapter 127: 'File_127_NoHeading' => Word Count: 75
+  Sub-chapter 128: 'File_128_NoHeading' => Word Count: 304
+  Sub-chapter 129: 'File_129_NoHeading' => Word Count: 104
+  Sub-chapter 130: 'File_130_NoHeading' => Word Count: 107
+  Sub-chapter 131: 'File_131_NoHeading' => Word Count: 35
+  Sub-chapter 132: 'File_132_NoHeading' => Word Count: 124
+  Sub-chapter 133: 'File_133_NoHeading' => Word Count: 87
+  Sub-chapter 134: 'File_134_NoHeading' => Word Count: 443
+  Sub-chapter 135: 'File_135_NoHeading' => Word Count: 716
+  Sub-chapter 136: 'File_136_NoHeading' => Word Count: 89
+  Sub-chapter 137: 'File_137_NoHeading' => Word Count: 93
+  Sub-chapter 138: 'File_138_NoHeading' => Word Count: 199
+  Sub-chapter 139: 'File_139_NoHeading' => Word Count: 66
+  Sub-chapter 140: 'File_140_NoHeading' => Word Count: 425
+  Sub-chapter 141: 'File_141_NoHeading' => Word Count: 242
+  Sub-chapter 142: 'File_142_NoHeading' => Word Count: 563
+  Sub-chapter 143: 'File_143_NoHeading' => Word Count: 262
+  Sub-chapter 144: 'File_144_NoHeading' => Word Count: 333
+  Sub-chapter 145: 'File_145_NoHeading' => Word Count: 29
+  Sub-chapter 146: 'File_146_NoHeading' => Word Count: 107
+  Sub-chapter 147: 'File_147_NoHeading' => Word Count: 157
+  Sub-chapter 148: 'File_148_NoHeading' => Word Count: 409
+  Sub-chapter 149: 'File_149_NoHeading' => Word Count: 143
+  Sub-chapter 150: 'File_150_NoHeading' => Word Count: 172
+  Sub-chapter 151: 'File_151_NoHeading' => Word Count: 161
+  Sub-chapter 152: 'File_152_NoHeading' => Word Count: 128
+  Sub-chapter 153: 'File_153_NoHeading' => Word Count: 563
+  Sub-chapter 154: 'File_154_NoHeading' => Word Count: 87
+  Sub-chapter 155: 'File_155_NoHeading' => Word Count: 94
+  Sub-chapter 156: 'File_156_NoHeading' => Word Count: 127
+  Sub-chapter 157: 'File_157_NoHeading' => Word Count: 67
+  Sub-chapter 158: 'File_158_NoHeading' => Word Count: 87
+  Sub-chapter 159: 'File_159_NoHeading' => Word Count: 58
+  Sub-chapter 160: 'File_160_NoHeading' => Word Count: 166
+  Sub-chapter 161: 'File_161_NoHeading' => Word Count: 140
+  Sub-chapter 162: 'File_162_NoHeading' => Word Count: 58
+  Sub-chapter 163: 'File_163_NoHeading' => Word Count: 162
+  Sub-chapter 164: 'File_164_NoHeading' => Word Count: 154
+  Sub-chapter 165: 'File_165_NoHeading' => Word Count: 71
+  Sub-chapter 166: 'File_166_NoHeading' => Word Count: 319
+  Sub-chapter 167: 'File_167_NoHeading' => Word Count: 210
+  Sub-chapter 168: 'File_168_NoHeading' => Word Count: 76
+  Sub-chapter 169: 'File_169_NoHeading' => Word Count: 39
+  Sub-chapter 170: 'File_170_NoHeading' => Word Count: 327
+  Sub-chapter 171: 'File_171_NoHeading' => Word Count: 267
+  Sub-chapter 172: 'File_172_NoHeading' => Word Count: 74
+  Sub-chapter 173: 'File_173_NoHeading' => Word Count: 45
+  Sub-chapter 174: 'File_174_NoHeading' => Word Count: 109
+  Sub-chapter 175: 'File_175_NoHeading' => Word Count: 25
+  Sub-chapter 176: 'File_176_NoHeading' => Word Count: 179
+  Sub-chapter 177: 'File_177_NoHeading' => Word Count: 35
+  Sub-chapter 178: 'File_178_NoHeading' => Word Count: 157
+  Sub-chapter 179: 'File_179_NoHeading' => Word Count: 81
+  Sub-chapter 180: 'File_180_NoHeading' => Word Count: 71
+  Sub-chapter 181: 'File_181_NoHeading' => Word Count: 158
+  Sub-chapter 182: 'File_182_NoHeading' => Word Count: 145
+  Sub-chapter 183: 'File_183_NoHeading' => Word Count: 326
+  Sub-chapter 184: 'File_184_NoHeading' => Word Count: 110
+  Sub-chapter 185: 'File_185_NoHeading' => Word Count: 189
+  Sub-chapter 186: 'File_186_NoHeading' => Word Count: 65
+  Sub-chapter 187: 'File_187_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 187
+ Min Word Count: 0
+ Max Word Count: 5373
+ Average Words: 205.93
+ Median Words: 127.00
+
+=== Analyzing 'books\Fasıldan Fasıla-3 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 127
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 2371
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2519
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 6480
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 20108
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 11001
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2293
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 6741
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 9
+ Min Word Count: 0
+ Max Word Count: 20108
+ Average Words: 5737.78
+ Median Words: 2519.00
+
+=== Analyzing 'books\Fasıldan Fasıla-4 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 126
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 728
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 5058
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 7871
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 14985
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 5897
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 5814
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 8
+ Min Word Count: 0
+ Max Word Count: 14985
+ Average Words: 5059.88
+ Median Words: 5436.00
+
+=== Analyzing 'books\Fasıldan Fasıla-5 - (Fikir Atlasi) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 4
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 4831
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 4
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 5583
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 5
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 8419
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 3
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 7773
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 6
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 3851
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 4
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2501
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 583
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 15
+ Min Word Count: 0
+ Max Word Count: 8419
+ Average Words: 2246.33
+ Median Words: 128.00
+
+=== Analyzing 'books\Fatiha Üzerine Mülahazalar - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 125
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 567
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2067
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 741
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 443
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1186
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 518
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 484
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 5007
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 4009
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 4046
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 374
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 893
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1260
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 9173
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 2065
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 2374
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 5170
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 4938
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 3260
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 136
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1278
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 795
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 24
+ Min Word Count: 0
+ Max Word Count: 9173
+ Average Words: 2121.21
+ Median Words: 1223.00
+
+=== Analyzing 'books\Hitap Çiçekleri - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 626
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1574
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2544
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1900
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2849
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 3223
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 4554
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 498
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 934
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 976
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 883
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 762
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 739
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 751
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1133
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 819
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 677
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 576
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 325
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1306
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 594
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 699
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 832
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 554
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 605
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 379
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 925
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 832
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 525
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 721
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1097
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 32
+ Min Word Count: 0
+ Max Word Count: 4554
+ Average Words: 1106.62
+ Median Words: 790.50
+
+=== Analyzing 'books\Kalbin Zümrüt Tepeleri-1 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 147
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 7043
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 892
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1271
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1199
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1194
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 984
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 747
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 889
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 989
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 442
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1534
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 925
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1383
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 886
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1096
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1284
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 844
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 927
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 820
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 761
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 841
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1178
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1070
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1425
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 791
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1234
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1279
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1245
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1436
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 2933
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 413
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 683
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 649
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 960
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1267
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 746
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 653
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 859
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 826
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 789
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 849
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 665
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 924
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 836
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 650
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 772
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 747
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 1201
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 50
+ Min Word Count: 0
+ Max Word Count: 7043
+ Average Words: 1083.56
+ Median Words: 890.50
+
+=== Analyzing 'books\Kalbin Zümrüt Tepeleri-2 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 147
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 576
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 750
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 614
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 929
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1327
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1132
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 811
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 785
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 876
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 546
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1026
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 629
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 869
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1080
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 950
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1212
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 717
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1155
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 814
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 986
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1111
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1076
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1054
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 945
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 602
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1231
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 836
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1344
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 869
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 2269
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 2648
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1158
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 2234
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 4788
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 627
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1088
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1533
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 915
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 3269
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 823
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 842
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 2016
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 1536
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 4454
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 1436
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 1477
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 2544
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 438
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 3686
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 779
+  Sub-chapter 52: 'File_52_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 52
+ Min Word Count: 0
+ Max Word Count: 4788
+ Average Words: 1299.21
+ Median Words: 1006.00
+
+=== Analyzing 'books\Kalbin Zümrüt Tepeleri-3 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 147
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 9
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1457
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1324
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1334
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 825
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 936
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1097
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 4163
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1718
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1371
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1855
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1697
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2022
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 2259
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 2871
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 3407
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 13855
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 4335
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2130
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 2319
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 3244
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 2009
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2109
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1606
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 2009
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 741
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 28
+ Min Word Count: 0
+ Max Word Count: 13855
+ Average Words: 2244.61
+ Median Words: 1786.50
+
+=== Analyzing 'books\Kalbin Zümrüt Tepeleri-4 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 96
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 9
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2828
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2059
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2812
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1958
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1953
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1187
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2630
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 3641
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2096
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 2288
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 7702
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1299
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 3422
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 3003
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1276
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1227
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 919
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1118
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1039
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1067
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1504
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1081
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1458
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1169
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 785
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1434
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1061
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 31
+ Min Word Count: 0
+ Max Word Count: 7702
+ Average Words: 1745.87
+ Median Words: 1299.00
+
+=== Analyzing 'books\Kirık Testi-12 (Yenilenme Cehdi) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 119
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1470
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1835
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1498
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1597
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1324
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1272
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1839
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1702
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1738
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1731
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 943
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1352
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1229
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1762
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1581
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1555
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1163
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1278
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1518
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1447
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 2161
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1236
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1414
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1363
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 2474
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1217
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 2360
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1312
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1284
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1418
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1477
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1312
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1607
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1556
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1537
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1119
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1157
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 1302
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 1304
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 1543
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 3454
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 2328
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 2269
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 1849
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 9
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 47
+ Min Word Count: 0
+ Max Word Count: 3454
+ Average Words: 1489.68
+ Median Words: 1470.00
+
+=== Analyzing 'books\Kitap ve Sünnet Perspektifinde Kader - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 127
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 848
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 12031
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 10870
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3101
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 8519
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 512
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 8
+ Min Word Count: 0
+ Max Word Count: 12031
+ Average Words: 4501.00
+ Median Words: 1974.50
+
+=== Analyzing 'books\Kur'an'dan İdrake Yansıyanlar - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 125
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 3063
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2063
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 631
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 304
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 12438
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 3787
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2094
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2644
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2895
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1184
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1478
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1095
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2059
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 442
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1715
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 429
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 455
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 394
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 539
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 273
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 4363
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 2046
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1470
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1661
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 468
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 857
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 2147
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 2458
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 2951
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 567
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 436
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 574
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 790
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1139
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 370
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 828
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1514
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 762
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 1616
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 417
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 347
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 2379
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 1277
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 538
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 538
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 361
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 298
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 501
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 945
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 633
+  Sub-chapter 52: 'File_52_NoHeading' => Word Count: 524
+  Sub-chapter 53: 'File_53_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 53
+ Min Word Count: 0
+ Max Word Count: 12438
+ Average Words: 1431.74
+ Median Words: 828.00
+
+=== Analyzing 'books\Kur'an'ın Altın İkliminde - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 124
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 42
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1483
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 7982
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 14528
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 9648
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 21747
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 7324
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 12765
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 15120
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 33831
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 9196
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1022
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 14
+ Min Word Count: 0
+ Max Word Count: 33831
+ Average Words: 9629.43
+ Median Words: 8589.00
+
+=== Analyzing 'books\Kırık Mızrap - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 8
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 130
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 92
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 117
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 104
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 80
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 127
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 122
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 117
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 51
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 71
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 149
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 42
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 57
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 2
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 95
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 173
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 60
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 66
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 86
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 55
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 160
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 101
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 75
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 122
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 91
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 121
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 106
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 256
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 79
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 106
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 109
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 104
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 72
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 146
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 96
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 65
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 113
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 148
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 65
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 91
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 75
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 110
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 50
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 113
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 38
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 91
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 80
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 83
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 112
+  Sub-chapter 52: 'File_52_NoHeading' => Word Count: 46
+  Sub-chapter 53: 'File_53_NoHeading' => Word Count: 52
+  Sub-chapter 54: 'File_54_NoHeading' => Word Count: 73
+  Sub-chapter 55: 'File_55_NoHeading' => Word Count: 76
+  Sub-chapter 56: 'File_56_NoHeading' => Word Count: 85
+  Sub-chapter 57: 'File_57_NoHeading' => Word Count: 118
+  Sub-chapter 58: 'File_58_NoHeading' => Word Count: 90
+  Sub-chapter 59: 'File_59_NoHeading' => Word Count: 49
+  Sub-chapter 60: 'File_60_NoHeading' => Word Count: 91
+  Sub-chapter 61: 'File_61_NoHeading' => Word Count: 91
+  Sub-chapter 62: 'File_62_NoHeading' => Word Count: 98
+  Sub-chapter 63: 'File_63_NoHeading' => Word Count: 2
+  Sub-chapter 64: 'File_64_NoHeading' => Word Count: 182
+  Sub-chapter 65: 'File_65_NoHeading' => Word Count: 149
+  Sub-chapter 66: 'File_66_NoHeading' => Word Count: 166
+  Sub-chapter 67: 'File_67_NoHeading' => Word Count: 229
+  Sub-chapter 68: 'File_68_NoHeading' => Word Count: 62
+  Sub-chapter 69: 'File_69_NoHeading' => Word Count: 79
+  Sub-chapter 70: 'File_70_NoHeading' => Word Count: 143
+  Sub-chapter 71: 'File_71_NoHeading' => Word Count: 50
+  Sub-chapter 72: 'File_72_NoHeading' => Word Count: 95
+  Sub-chapter 73: 'File_73_NoHeading' => Word Count: 196
+  Sub-chapter 74: 'File_74_NoHeading' => Word Count: 177
+  Sub-chapter 75: 'File_75_NoHeading' => Word Count: 182
+  Sub-chapter 76: 'File_76_NoHeading' => Word Count: 154
+  Sub-chapter 77: 'File_77_NoHeading' => Word Count: 274
+  Sub-chapter 78: 'File_78_NoHeading' => Word Count: 158
+  Sub-chapter 79: 'File_79_NoHeading' => Word Count: 88
+  Sub-chapter 80: 'File_80_NoHeading' => Word Count: 143
+  Sub-chapter 81: 'File_81_NoHeading' => Word Count: 88
+  Sub-chapter 82: 'File_82_NoHeading' => Word Count: 62
+  Sub-chapter 83: 'File_83_NoHeading' => Word Count: 198
+  Sub-chapter 84: 'File_84_NoHeading' => Word Count: 301
+  Sub-chapter 85: 'File_85_NoHeading' => Word Count: 67
+  Sub-chapter 86: 'File_86_NoHeading' => Word Count: 65
+  Sub-chapter 87: 'File_87_NoHeading' => Word Count: 77
+  Sub-chapter 88: 'File_88_NoHeading' => Word Count: 2
+  Sub-chapter 89: 'File_89_NoHeading' => Word Count: 198
+  Sub-chapter 90: 'File_90_NoHeading' => Word Count: 160
+  Sub-chapter 91: 'File_91_NoHeading' => Word Count: 100
+  Sub-chapter 92: 'File_92_NoHeading' => Word Count: 102
+  Sub-chapter 93: 'File_93_NoHeading' => Word Count: 123
+  Sub-chapter 94: 'File_94_NoHeading' => Word Count: 2
+  Sub-chapter 95: 'File_95_NoHeading' => Word Count: 246
+  Sub-chapter 96: 'File_96_NoHeading' => Word Count: 169
+  Sub-chapter 97: 'File_97_NoHeading' => Word Count: 162
+  Sub-chapter 98: 'File_98_NoHeading' => Word Count: 150
+  Sub-chapter 99: 'File_99_NoHeading' => Word Count: 186
+  Sub-chapter 100: 'File_100_NoHeading' => Word Count: 140
+  Sub-chapter 101: 'File_101_NoHeading' => Word Count: 168
+  Sub-chapter 102: 'File_102_NoHeading' => Word Count: 134
+  Sub-chapter 103: 'File_103_NoHeading' => Word Count: 282
+  Sub-chapter 104: 'File_104_NoHeading' => Word Count: 155
+  Sub-chapter 105: 'File_105_NoHeading' => Word Count: 215
+  Sub-chapter 106: 'File_106_NoHeading' => Word Count: 157
+  Sub-chapter 107: 'File_107_NoHeading' => Word Count: 184
+  Sub-chapter 108: 'File_108_NoHeading' => Word Count: 140
+  Sub-chapter 109: 'File_109_NoHeading' => Word Count: 140
+  Sub-chapter 110: 'File_110_NoHeading' => Word Count: 169
+  Sub-chapter 111: 'File_111_NoHeading' => Word Count: 77
+  Sub-chapter 112: 'File_112_NoHeading' => Word Count: 420
+  Sub-chapter 113: 'File_113_NoHeading' => Word Count: 96
+  Sub-chapter 114: 'File_114_NoHeading' => Word Count: 136
+  Sub-chapter 115: 'File_115_NoHeading' => Word Count: 250
+  Sub-chapter 116: 'File_116_NoHeading' => Word Count: 204
+  Sub-chapter 117: 'File_117_NoHeading' => Word Count: 120
+  Sub-chapter 118: 'File_118_NoHeading' => Word Count: 232
+  Sub-chapter 119: 'File_119_NoHeading' => Word Count: 174
+  Sub-chapter 120: 'File_120_NoHeading' => Word Count: 2
+  Sub-chapter 121: 'File_121_NoHeading' => Word Count: 113
+  Sub-chapter 122: 'File_122_NoHeading' => Word Count: 107
+  Sub-chapter 123: 'File_123_NoHeading' => Word Count: 365
+  Sub-chapter 124: 'File_124_NoHeading' => Word Count: 92
+  Sub-chapter 125: 'File_125_NoHeading' => Word Count: 137
+  Sub-chapter 126: 'File_126_NoHeading' => Word Count: 134
+  Sub-chapter 127: 'File_127_NoHeading' => Word Count: 145
+  Sub-chapter 128: 'File_128_NoHeading' => Word Count: 179
+  Sub-chapter 129: 'File_129_NoHeading' => Word Count: 137
+  Sub-chapter 130: 'File_130_NoHeading' => Word Count: 170
+  Sub-chapter 131: 'File_131_NoHeading' => Word Count: 177
+  Sub-chapter 132: 'File_132_NoHeading' => Word Count: 123
+  Sub-chapter 133: 'File_133_NoHeading' => Word Count: 140
+  Sub-chapter 134: 'File_134_NoHeading' => Word Count: 189
+  Sub-chapter 135: 'File_135_NoHeading' => Word Count: 135
+  Sub-chapter 136: 'File_136_NoHeading' => Word Count: 137
+  Sub-chapter 137: 'File_137_NoHeading' => Word Count: 116
+  Sub-chapter 138: 'File_138_NoHeading' => Word Count: 44
+  Sub-chapter 139: 'File_139_NoHeading' => Word Count: 105
+  Sub-chapter 140: 'File_140_NoHeading' => Word Count: 327
+  Sub-chapter 141: 'File_141_NoHeading' => Word Count: 78
+  Sub-chapter 142: 'File_142_NoHeading' => Word Count: 148
+  Sub-chapter 143: 'File_143_NoHeading' => Word Count: 78
+  Sub-chapter 144: 'File_144_NoHeading' => Word Count: 73
+  Sub-chapter 145: 'File_145_NoHeading' => Word Count: 95
+  Sub-chapter 146: 'File_146_NoHeading' => Word Count: 100
+  Sub-chapter 147: 'File_147_NoHeading' => Word Count: 98
+  Sub-chapter 148: 'File_148_NoHeading' => Word Count: 318
+  Sub-chapter 149: 'File_149_NoHeading' => Word Count: 167
+  Sub-chapter 150: 'File_150_NoHeading' => Word Count: 10
+  Sub-chapter 151: 'File_151_NoHeading' => Word Count: 77
+  Sub-chapter 152: 'File_152_NoHeading' => Word Count: 69
+  Sub-chapter 153: 'File_153_NoHeading' => Word Count: 116
+  Sub-chapter 154: 'File_154_NoHeading' => Word Count: 74
+  Sub-chapter 155: 'File_155_NoHeading' => Word Count: 107
+  Sub-chapter 156: 'File_156_NoHeading' => Word Count: 142
+  Sub-chapter 157: 'File_157_NoHeading' => Word Count: 65
+  Sub-chapter 158: 'File_158_NoHeading' => Word Count: 57
+  Sub-chapter 159: 'File_159_NoHeading' => Word Count: 104
+  Sub-chapter 160: 'File_160_NoHeading' => Word Count: 100
+  Sub-chapter 161: 'File_161_NoHeading' => Word Count: 117
+  Sub-chapter 162: 'File_162_NoHeading' => Word Count: 110
+  Sub-chapter 163: 'File_163_NoHeading' => Word Count: 94
+  Sub-chapter 164: 'File_164_NoHeading' => Word Count: 78
+  Sub-chapter 165: 'File_165_NoHeading' => Word Count: 82
+  Sub-chapter 166: 'File_166_NoHeading' => Word Count: 79
+  Sub-chapter 167: 'File_167_NoHeading' => Word Count: 98
+  Sub-chapter 168: 'File_168_NoHeading' => Word Count: 113
+  Sub-chapter 169: 'File_169_NoHeading' => Word Count: 60
+  Sub-chapter 170: 'File_170_NoHeading' => Word Count: 76
+  Sub-chapter 171: 'File_171_NoHeading' => Word Count: 114
+  Sub-chapter 172: 'File_172_NoHeading' => Word Count: 96
+  Sub-chapter 173: 'File_173_NoHeading' => Word Count: 84
+  Sub-chapter 174: 'File_174_NoHeading' => Word Count: 143
+  Sub-chapter 175: 'File_175_NoHeading' => Word Count: 130
+  Sub-chapter 176: 'File_176_NoHeading' => Word Count: 45
+  Sub-chapter 177: 'File_177_NoHeading' => Word Count: 60
+  Sub-chapter 178: 'File_178_NoHeading' => Word Count: 51
+  Sub-chapter 179: 'File_179_NoHeading' => Word Count: 94
+  Sub-chapter 180: 'File_180_NoHeading' => Word Count: 96
+  Sub-chapter 181: 'File_181_NoHeading' => Word Count: 81
+  Sub-chapter 182: 'File_182_NoHeading' => Word Count: 932
+  Sub-chapter 183: 'File_183_NoHeading' => Word Count: 155
+  Sub-chapter 184: 'File_184_NoHeading' => Word Count: 46
+  Sub-chapter 185: 'File_185_NoHeading' => Word Count: 1
+  Sub-chapter 186: 'File_186_NoHeading' => Word Count: 2199
+  Sub-chapter 187: 'File_187_NoHeading' => Word Count: 83
+  Sub-chapter 188: 'File_188_NoHeading' => Word Count: 109
+  Sub-chapter 189: 'File_189_NoHeading' => Word Count: 116
+  Sub-chapter 190: 'File_190_NoHeading' => Word Count: 158
+  Sub-chapter 191: 'File_191_NoHeading' => Word Count: 169
+  Sub-chapter 192: 'File_192_NoHeading' => Word Count: 73
+  Sub-chapter 193: 'File_193_NoHeading' => Word Count: 152
+  Sub-chapter 194: 'File_194_NoHeading' => Word Count: 116
+  Sub-chapter 195: 'File_195_NoHeading' => Word Count: 82
+  Sub-chapter 196: 'File_196_NoHeading' => Word Count: 2
+  Sub-chapter 197: 'File_197_NoHeading' => Word Count: 2
+  Sub-chapter 198: 'File_198_NoHeading' => Word Count: 101
+  Sub-chapter 199: 'File_199_NoHeading' => Word Count: 188
+  Sub-chapter 200: 'File_200_NoHeading' => Word Count: 130
+  Sub-chapter 201: 'File_201_NoHeading' => Word Count: 94
+  Sub-chapter 202: 'File_202_NoHeading' => Word Count: 133
+  Sub-chapter 203: 'File_203_NoHeading' => Word Count: 154
+  Sub-chapter 204: 'File_204_NoHeading' => Word Count: 96
+  Sub-chapter 205: 'File_205_NoHeading' => Word Count: 58
+  Sub-chapter 206: 'File_206_NoHeading' => Word Count: 47
+  Sub-chapter 207: 'File_207_NoHeading' => Word Count: 48
+  Sub-chapter 208: 'File_208_NoHeading' => Word Count: 107
+  Sub-chapter 209: 'File_209_NoHeading' => Word Count: 2
+  Sub-chapter 210: 'File_210_NoHeading' => Word Count: 114
+  Sub-chapter 211: 'File_211_NoHeading' => Word Count: 119
+  Sub-chapter 212: 'File_212_NoHeading' => Word Count: 113
+  Sub-chapter 213: 'File_213_NoHeading' => Word Count: 173
+  Sub-chapter 214: 'File_214_NoHeading' => Word Count: 138
+  Sub-chapter 215: 'File_215_NoHeading' => Word Count: 99
+  Sub-chapter 216: 'File_216_NoHeading' => Word Count: 117
+  Sub-chapter 217: 'File_217_NoHeading' => Word Count: 189
+  Sub-chapter 218: 'File_218_NoHeading' => Word Count: 137
+  Sub-chapter 219: 'File_219_NoHeading' => Word Count: 72
+  Sub-chapter 220: 'File_220_NoHeading' => Word Count: 119
+  Sub-chapter 221: 'File_221_NoHeading' => Word Count: 187
+  Sub-chapter 222: 'File_222_NoHeading' => Word Count: 90
+  Sub-chapter 223: 'File_223_NoHeading' => Word Count: 72
+  Sub-chapter 224: 'File_224_NoHeading' => Word Count: 1
+  Sub-chapter 225: 'File_225_NoHeading' => Word Count: 93
+  Sub-chapter 226: 'File_226_NoHeading' => Word Count: 93
+  Sub-chapter 227: 'File_227_NoHeading' => Word Count: 149
+  Sub-chapter 228: 'File_228_NoHeading' => Word Count: 151
+  Sub-chapter 229: 'File_229_NoHeading' => Word Count: 159
+  Sub-chapter 230: 'File_230_NoHeading' => Word Count: 71
+  Sub-chapter 231: 'File_231_NoHeading' => Word Count: 191
+  Sub-chapter 232: 'File_232_NoHeading' => Word Count: 81
+  Sub-chapter 233: 'File_233_NoHeading' => Word Count: 193
+  Sub-chapter 234: 'File_234_NoHeading' => Word Count: 128
+  Sub-chapter 235: 'File_235_NoHeading' => Word Count: 1
+  Sub-chapter 236: 'File_236_NoHeading' => Word Count: 108
+  Sub-chapter 237: 'File_237_NoHeading' => Word Count: 188
+  Sub-chapter 238: 'File_238_NoHeading' => Word Count: 58
+  Sub-chapter 239: 'File_239_NoHeading' => Word Count: 133
+  Sub-chapter 240: 'File_240_NoHeading' => Word Count: 78
+  Sub-chapter 241: 'File_241_NoHeading' => Word Count: 162
+  Sub-chapter 242: 'File_242_NoHeading' => Word Count: 119
+  Sub-chapter 243: 'File_243_NoHeading' => Word Count: 146
+  Sub-chapter 244: 'File_244_NoHeading' => Word Count: 109
+  Sub-chapter 245: 'File_245_NoHeading' => Word Count: 68
+  Sub-chapter 246: 'File_246_NoHeading' => Word Count: 145
+  Sub-chapter 247: 'File_247_NoHeading' => Word Count: 121
+  Sub-chapter 248: 'File_248_NoHeading' => Word Count: 1
+  Sub-chapter 249: 'File_249_NoHeading' => Word Count: 107
+  Sub-chapter 250: 'File_250_NoHeading' => Word Count: 76
+  Sub-chapter 251: 'File_251_NoHeading' => Word Count: 73
+  Sub-chapter 252: 'File_252_NoHeading' => Word Count: 79
+  Sub-chapter 253: 'File_253_NoHeading' => Word Count: 65
+  Sub-chapter 254: 'File_254_NoHeading' => Word Count: 116
+  Sub-chapter 255: 'File_255_NoHeading' => Word Count: 82
+  Sub-chapter 256: 'File_256_NoHeading' => Word Count: 81
+  Sub-chapter 257: 'File_257_NoHeading' => Word Count: 101
+  Sub-chapter 258: 'File_258_NoHeading' => Word Count: 1
+  Sub-chapter 259: 'File_259_NoHeading' => Word Count: 74
+  Sub-chapter 260: 'File_260_NoHeading' => Word Count: 104
+  Sub-chapter 261: 'File_261_NoHeading' => Word Count: 140
+  Sub-chapter 262: 'File_262_NoHeading' => Word Count: 138
+  Sub-chapter 263: 'File_263_NoHeading' => Word Count: 76
+  Sub-chapter 264: 'File_264_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 264
+ Min Word Count: 0
+ Max Word Count: 2199
+ Average Words: 123.62
+ Median Words: 106.00
+
+=== Analyzing 'books\Kırık Testi-01 (Kırık Testi) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 3426
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 900
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2523
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3619
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 2793
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 3823
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 6110
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 13182
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 6810
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 13910
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 739
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 13
+ Min Word Count: 0
+ Max Word Count: 13910
+ Average Words: 4458.69
+ Median Words: 3426.00
+
+=== Analyzing 'books\Kırık Testi-02 (Sohbeti Canan) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 902
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 577
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 8236
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3322
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 5908
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 10299
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 4053
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 7422
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2944
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 406
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 12
+ Min Word Count: 0
+ Max Word Count: 10299
+ Average Words: 3683.08
+ Median Words: 3133.00
+
+=== Analyzing 'books\Kırık Testi-03 (Gurbet Ufukları) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 715
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 4071
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 3122
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 4043
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 5988
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 10638
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 10895
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 6792
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 5488
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 756
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 12
+ Min Word Count: 0
+ Max Word Count: 10895
+ Average Words: 4386.33
+ Median Words: 4057.00
+
+=== Analyzing 'books\Kırık Testi-04 (Ümit Burcu) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 856
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 3336
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 4404
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2517
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 2399
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2004
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2942
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2498
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2842
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2048
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 2854
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2993
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2653
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1732
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1785
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 2725
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1419
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 2206
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1898
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1833
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 2634
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 2750
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2507
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 2725
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 3623
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1795
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 3010
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 3394
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 2281
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 2308
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 3131
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 2644
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 3601
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 3167
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 792
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 37
+ Min Word Count: 0
+ Max Word Count: 4404
+ Average Words: 2390.11
+ Median Words: 2517.00
+
+=== Analyzing 'books\Kırık Testi-05 (İkindi Yağmurları) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 2236
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 3603
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2598
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3743
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 3274
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2028
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 3072
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2644
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2499
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2798
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 2835
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2534
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 3670
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 3842
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1848
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 3027
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2962
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 4492
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 4867
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 3728
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 3769
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 3331
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2180
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 2354
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 2074
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 2971
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 2658
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 2104
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 3120
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 2932
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 2894
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 3511
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 3344
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 3121
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1104
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 37
+ Min Word Count: 0
+ Max Word Count: 4867
+ Average Words: 2807.97
+ Median Words: 2932.00
+
+=== Analyzing 'books\Kırık Testi-06 (Diriliş Çağrısı) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 130
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 565
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1054
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 3366
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3182
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 3864
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2436
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 3155
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2044
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 3223
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 4528
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 4064
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 3508
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2745
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 3395
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 3025
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 6656
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2965
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 3809
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1737
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 2722
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1735
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 2431
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2900
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 3295
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 2940
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 2940
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 2986
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 2424
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1032
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 31
+ Min Word Count: 0
+ Max Word Count: 6656
+ Average Words: 2737.29
+ Median Words: 2940.00
+
+=== Analyzing 'books\Kırık Testi-07 (Ölümsüzlük İksiri) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 786
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2050
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 3675
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2574
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 4168
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2301
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2831
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 3988
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1954
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2151
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1593
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 3402
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2393
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 2845
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 2452
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1585
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2722
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 3231
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1817
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1809
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 2831
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 2539
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 3573
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 2798
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 2644
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 927
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1619
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 2318
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 2712
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1234
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 32
+ Min Word Count: 0
+ Max Word Count: 4168
+ Average Words: 2301.56
+ Median Words: 2422.50
+
+=== Analyzing 'books\Kırık Testi-08 (Vuslat Muştusu) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 147
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 895
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2193
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 4079
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2246
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 3108
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 3315
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 3007
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2386
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 967
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 3586
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 2817
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2027
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1722
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 2841
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 3978
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 2535
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2187
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1872
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2835
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1987
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 4655
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 2016
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2299
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1801
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 2913
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 2920
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 3109
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 3570
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1911
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1262
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 32
+ Min Word Count: 0
+ Max Word Count: 4655
+ Average Words: 2412.06
+ Median Words: 2342.50
+
+=== Analyzing 'books\Kırık Testi-09 (Kalb İbresi) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 131
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1222
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1731
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2107
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2527
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1668
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2246
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1642
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2051
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2302
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1698
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1347
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1903
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1762
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 2326
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1740
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 2737
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2240
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1854
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2131
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1708
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1794
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 2138
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2081
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 2087
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1668
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1989
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 2265
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1816
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1965
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1853
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1757
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1957
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1926
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1516
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1673
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1802
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1513
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 716
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 40
+ Min Word Count: 0
+ Max Word Count: 2737
+ Average Words: 1789.72
+ Median Words: 1834.50
+
+=== Analyzing 'books\Kırık Testi-10 (Cemre Beklentisi) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 859
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1638
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1680
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1905
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1569
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1785
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1659
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2041
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1568
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1981
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 2739
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1762
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2409
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1995
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1772
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1804
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2343
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1555
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1851
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1492
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1971
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1681
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1561
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1830
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1691
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1680
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1984
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1805
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 2500
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1900
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1877
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 2161
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1674
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 2120
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1850
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1838
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1288
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 39
+ Min Word Count: 0
+ Max Word Count: 2739
+ Average Words: 1742.21
+ Median Words: 1804.00
+
+=== Analyzing 'books\Kırık Testi-11 (Yaşatma İdeali) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 953
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1949
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2112
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2500
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1761
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1587
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1895
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1931
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1958
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1908
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1493
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1657
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2327
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1636
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1965
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1911
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1611
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1824
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1379
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 2164
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1615
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1496
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1494
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1684
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1673
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1520
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 2064
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1907
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1648
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1369
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1690
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1715
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1578
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 2186
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1795
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1370
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1221
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 39
+ Min Word Count: 0
+ Max Word Count: 2500
+ Average Words: 1658.31
+ Median Words: 1684.00
+
+=== Analyzing 'books\Kırık Testi-13 (Mefkure Yolculuğu) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 0
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 9
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 69
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1078
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1577
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1147
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1886
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1758
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1491
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1149
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1352
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 940
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1476
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1396
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 982
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1511
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1668
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1294
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1258
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1248
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1951
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1428
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1622
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1441
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1776
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1491
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1446
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1187
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1833
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1333
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 967
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1032
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1337
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1125
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1640
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1337
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 2030
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 2101
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 2796
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 1420
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 1316
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 1716
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 1798
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 1182
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 1042
+
+--- Summary ---
+ Total Sub-chapters: 45
+ Min Word Count: 0
+ Max Word Count: 2796
+ Average Words: 1369.69
+ Median Words: 1396.00
+
+=== Analyzing 'books\Kırık Testi-14 (Buhranli Gunler ve Umit Atlasimiz) - M. Fethullah Gulen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 0
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 59372
+
+--- Summary ---
+ Total Sub-chapters: 2
+ Min Word Count: 0
+ Max Word Count: 59372
+ Average Words: 29686.00
+ Median Words: 29686.00
+
+=== Analyzing 'books\Mealli Dua Mecmuası - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_Sabah Duaları' => Word Count: 1881
+  Sub-chapter 2: 'File_2_Akşam Duaları' => Word Count: 1091
+  Sub-chapter 3: 'File_3_Uyumak İstediğinde' => Word Count: 292
+  Sub-chapter 4: 'File_4_Yatağa Girdiğinde' => Word Count: 450
+  Sub-chapter 5: 'File_5_Rüyasında Hoşlandığı Bir Şey Gördüğünde' => Word Count: 15
+  Sub-chapter 6: 'File_6_Rüyasında Hoşlanmadığı Bir Şey Gördüğünde' => Word Count: 76
+  Sub-chapter 7: 'File_7_Korktuğunda veya Yalnızlık Duyduğunda' => Word Count: 172
+  Sub-chapter 8: 'File_8_Yatakta Yan Değiştirdiğinde' => Word Count: 48
+  Sub-chapter 9: 'File_9_Uyandığında' => Word Count: 51
+  Sub-chapter 10: 'File_10_Teheccüd' => Word Count: 60
+  Sub-chapter 11: 'File_11_Gece Teheccüde Kalktığında' => Word Count: 152
+  Sub-chapter 12: 'File_12_Vitir Namazında Fatiha'dan Sonra' => Word Count: 16
+  Sub-chapter 13: 'File_13_Vitirden Sonra' => Word Count: 97
+  Sub-chapter 14: 'File_14_Tahâret, Cami, Ezan ve Namazla Alakalı' => Word Count: 0
+  Sub-chapter 15: 'File_15_Helâya Girerken' => Word Count: 26
+  Sub-chapter 16: 'File_16_Helâdan Çıkarken' => Word Count: 39
+  Sub-chapter 17: 'File_17_Abdeste Başlarken' => Word Count: 36
+  Sub-chapter 18: 'File_18_Abdestten Sonra' => Word Count: 130
+  Sub-chapter 19: 'File_19_Camiye Giderken' => Word Count: 111
+  Sub-chapter 20: 'File_20_Camiye Girerken' => Word Count: 28
+  Sub-chapter 21: 'File_21_Camiden Çıkarken' => Word Count: 40
+  Sub-chapter 22: 'File_22_Camide Ticaret Yapana' => Word Count: 4
+  Sub-chapter 23: 'File_23_Camide Yitik Arayana' => Word Count: 5
+  Sub-chapter 24: 'File_24_Ezan' => Word Count: 28
+  Sub-chapter 25: 'File_25_Akşam Ezanını işittiğinde' => Word Count: 22
+  Sub-chapter 26: 'File_26_Ezandan Sonra' => Word Count: 100
+  Sub-chapter 27: 'File_27_İftitah Tekbirinden Sonra' => Word Count: 199
+  Sub-chapter 28: 'File_28_Rükû'dan Doğrulduğunda' => Word Count: 107
+  Sub-chapter 29: 'File_29_İki Secde Arasında' => Word Count: 55
+  Sub-chapter 30: 'File_30_Teşehhüdde' => Word Count: 203
+  Sub-chapter 31: 'File_31_Selâmdan Sonra' => Word Count: 100
+  Sub-chapter 32: 'File_32_Kunut Duası' => Word Count: 79
+  Sub-chapter 33: 'File_33_Sabah Namazının Sünnetinde' => Word Count: 15
+  Sub-chapter 34: 'File_34_Sabah Namazının Sünnetinden Sonra' => Word Count: 22
+  Sub-chapter 35: 'File_35_Sabah ve Akşam Namazlarında Selâmdan Sonra' => Word Count: 314
+  Sub-chapter 36: 'File_36_Yağmur Duası' => Word Count: 130
+  Sub-chapter 37: 'File_37_İstihâre' => Word Count: 102
+  Sub-chapter 38: 'File_38_İzdivaç Namazı ve Duası' => Word Count: 63
+  Sub-chapter 39: 'File_39_Birşeyini Yitirdiğinde' => Word Count: 64
+  Sub-chapter 40: 'File_40_Tevbe Namazı' => Word Count: 42
+  Sub-chapter 41: 'File_41_Tesbih Namazı' => Word Count: 93
+  Sub-chapter 42: 'File_42_Yemekle İlgili Dualar' => Word Count: 0
+  Sub-chapter 43: 'File_43_İftar Duası' => Word Count: 65
+  Sub-chapter 44: 'File_44_Cüzzamlı veya Salgın Hastalığa Birisi ile ...' => Word Count: 26
+  Sub-chapter 45: 'File_45_Yeme ve içmeyi Bitirince' => Word Count: 148
+  Sub-chapter 46: 'File_46_Yemekten Sonra Ellerini Yıkarken' => Word Count: 43
+  Sub-chapter 47: 'File_47_Yemek Yedirenlere Edilen Dua' => Word Count: 18
+  Sub-chapter 48: 'File_48_Zekât' => Word Count: 0
+  Sub-chapter 49: 'File_49_Zekât Verme Esnasında' => Word Count: 16
+  Sub-chapter 50: 'File_50_Sefer' => Word Count: 0
+  Sub-chapter 51: 'File_51_Sefere/Yolculuğa çıkacak kişiye edilecek d...' => Word Count: 66
+  Sub-chapter 52: 'File_52_Sefere Çıkan Şöyle Der:' => Word Count: 19
+  Sub-chapter 53: 'File_53_Seferde Korkuyorsa' => Word Count: 5
+  Sub-chapter 54: 'File_54_Ayağını Bineğe Atarken' => Word Count: 2
+  Sub-chapter 55: 'File_55_Gideceği Beldeyi Görünce' => Word Count: 55
+  Sub-chapter 56: 'File_56_Gittiği Beldeye Girerken' => Word Count: 24
+  Sub-chapter 57: 'File_57_Görünümünün Güzelleşmesi ve Azığının Artma...' => Word Count: 8
+  Sub-chapter 58: 'File_58_Seferde Bir Tepeye Çıktığında ve Oradan Aş...' => Word Count: 10
+  Sub-chapter 59: 'File_59_Seferde Seher Vaktinde Yapılacak Dua' => Word Count: 23
+  Sub-chapter 60: 'File_60_Gemiye Bindiğinde' => Word Count: 38
+  Sub-chapter 61: 'File_61_Bir Beldede İkâmet Ettiğinde' => Word Count: 40
+  Sub-chapter 62: 'File_62_Seferden Dönüş Duası' => Word Count: 54
+  Sub-chapter 63: 'File_63_Evine Veya Âilesinin Yanına Döndüğünde' => Word Count: 9
+  Sub-chapter 64: 'File_64_Evine Gündüz Girdiğinde' => Word Count: 25
+  Sub-chapter 65: 'File_65_Seferden Dönüş Namazı' => Word Count: 10
+  Sub-chapter 66: 'File_66_Fetih Namazı' => Word Count: 9
+  Sub-chapter 67: 'File_67_Cuma günü yolculuk yapılmaz mı? Hanefi ve ...' => Word Count: 216
+  Sub-chapter 68: 'File_68_Hac' => Word Count: 0
+  Sub-chapter 69: 'File_69_İhrama Girdiğinde' => Word Count: 35
+  Sub-chapter 70: 'File_70_Tavaf' => Word Count: 37
+  Sub-chapter 71: 'File_71_Tavaf Duası' => Word Count: 43
+  Sub-chapter 72: 'File_72_İlk Üç Şavtta Yapılan Dua' => Word Count: 9
+  Sub-chapter 73: 'File_73_Son Dört Şavtta Yapılan Dua' => Word Count: 201
+  Sub-chapter 74: 'File_74_Safa Merve Arasında' => Word Count: 36
+  Sub-chapter 75: 'File_75_Arafat Duası' => Word Count: 61
+  Sub-chapter 76: 'File_76_Vakfede' => Word Count: 59
+  Sub-chapter 77: 'File_77_Meş'ar-i Haram'da' => Word Count: 13
+  Sub-chapter 78: 'File_78_Cemre Duaları' => Word Count: 19
+  Sub-chapter 79: 'File_79_Kurban Keserken' => Word Count: 31
+  Sub-chapter 80: 'File_80_Hac' => Word Count: 9
+  Sub-chapter 81: 'File_81_Cihad' => Word Count: 0
+  Sub-chapter 82: 'File_82_Cihad Duası' => Word Count: 43
+  Sub-chapter 83: 'File_83_Düşmanla Karşılaştıklarında' => Word Count: 59
+  Sub-chapter 84: 'File_84_Düşman Beldesini Gördüklerinde' => Word Count: 23
+  Sub-chapter 85: 'File_85_Düşmandan Korktuklarında' => Word Count: 13
+  Sub-chapter 86: 'File_86_Düşman Tarafından Kuşatıldıklarında' => Word Count: 8
+  Sub-chapter 87: 'File_87_Nusret Anında' => Word Count: 131
+  Sub-chapter 88: 'File_88_Nikah' => Word Count: 0
+  Sub-chapter 89: 'File_89_Nikah Hutbesi' => Word Count: 66
+  Sub-chapter 90: 'File_90_İzdivac Yapana' => Word Count: 15
+  Sub-chapter 91: 'File_91_Halvette(Ailesinin Yanına Girince)' => Word Count: 63
+  Sub-chapter 92: 'File_92_Mukaranet Murad Ettiğinde' => Word Count: 16
+  Sub-chapter 93: 'File_93_Umûr-u Âliye ile Alâkalı Dualar' => Word Count: 0
+  Sub-chapter 94: 'File_94_Bulut Gördüğünde' => Word Count: 12
+  Sub-chapter 95: 'File_95_Yağmursuzlukta' => Word Count: 4
+  Sub-chapter 96: 'File_96_Yağmuru Gördüğünde' => Word Count: 8
+  Sub-chapter 97: 'File_97_Yağmur Çok Yağıp Zararından Korkulduğunda' => Word Count: 12
+  Sub-chapter 98: 'File_98_Rüzgar Estiği Zaman' => Word Count: 52
+  Sub-chapter 99: 'File_99_Rüzgarla Beraber Karanlıkta Olursa' => Word Count: 45
+  Sub-chapter 100: 'File_100_Küsuf (Güneş Tutulması) Duası' => Word Count: 15
+  Sub-chapter 101: 'File_101_Hilâli (Yeni Ay) Gördüğünde' => Word Count: 87
+  Sub-chapter 102: 'File_102_Kamere Baktığında' => Word Count: 7
+  Sub-chapter 103: 'File_103_Şahsın Çeşitli Durumlarda Okuyacağı Duala...' => Word Count: 0
+  Sub-chapter 104: 'File_104_Yeni Bir Elbise Giydiği Zaman' => Word Count: 60
+  Sub-chapter 105: 'File_105_Çarşıya Çıktığında' => Word Count: 82
+  Sub-chapter 106: 'File_106_Çarşıdan Dönerken' => Word Count: 4
+  Sub-chapter 107: 'File_107_Beğendiği Bir Şeyi Gördüğünde' => Word Count: 5
+  Sub-chapter 108: 'File_108_Hayvan veya Benzeri Şeyler Satın Aldığınd...' => Word Count: 25
+  Sub-chapter 109: 'File_109_Yeni Doğan Çocuğa' => Word Count: 31
+  Sub-chapter 110: 'File_110_Çocuğun İlk Konuşması' => Word Count: 13
+  Sub-chapter 111: 'File_111_Bir Müslümanın Üzerinde Yeni Bir Elbise G...' => Word Count: 16
+  Sub-chapter 112: 'File_112_Hoşuna Giden Bir Şey Gördüğünde' => Word Count: 7
+  Sub-chapter 113: 'File_113_Hoşlanmadığı Bir Şey Gördüğünde' => Word Count: 6
+  Sub-chapter 114: 'File_114_Aynaya Bakarken' => Word Count: 47
+  Sub-chapter 115: 'File_115_Turfanda Meyve Gördüğünde' => Word Count: 21
+  Sub-chapter 116: 'File_116_Gülen Birini Gördüğünde' => Word Count: 7
+  Sub-chapter 117: 'File_117_Belaya Uğrayan Birini Gördüğünde' => Word Count: 18
+  Sub-chapter 118: 'File_118_Muhtelif Durumlarda Yapılacak Dua' => Word Count: 0
+  Sub-chapter 119: 'File_119_Yangın Gördüğünde' => Word Count: 2
+  Sub-chapter 120: 'File_120_Horoz Öterken' => Word Count: 4
+  Sub-chapter 121: 'File_121_Merkep Anırırken ve Köpek Havlarken' => Word Count: 11
+  Sub-chapter 122: 'File_122_Hoşlanmadığı Bir Şey Duyduğunda' => Word Count: 33
+  Sub-chapter 123: 'File_123_Sevinç Veren Haber Karşısında' => Word Count: 6
+  Sub-chapter 124: 'File_124_Kendisine "Seni Allah için seviyorum" Diy...' => Word Count: 8
+  Sub-chapter 125: 'File_125_"Allah Seni BAğışlasın" Diyene' => Word Count: 2
+  Sub-chapter 126: 'File_126_"Nasıl Sabahladın" Diyene' => Word Count: 5
+  Sub-chapter 127: 'File_127_Kendine Bir İhsanda Bulunana' => Word Count: 8
+  Sub-chapter 128: 'File_128_Kendisine Bir İyilikte Bulunana' => Word Count: 4
+  Sub-chapter 129: 'File_129_Yeni müslüman Olana Öğretilecek' => Word Count: 12
+  Sub-chapter 130: 'File_130_Alacağını Tahsil Edince' => Word Count: 15
+  Sub-chapter 131: 'File_131_Aksırınca' => Word Count: 32
+  Sub-chapter 132: 'File_132_Aksıranı Gören' => Word Count: 4
+  Sub-chapter 133: 'File_133_Aksıran da Cevaben' => Word Count: 24
+  Sub-chapter 134: 'File_134_Kulağı Çınlayınca' => Word Count: 7
+  Sub-chapter 135: 'File_135_Gazab Anında' => Word Count: 6
+  Sub-chapter 136: 'File_136_Zor Bir Duruma Maruz Kaldığında' => Word Count: 50
+  Sub-chapter 137: 'File_137_Musibet Anında' => Word Count: 49
+  Sub-chapter 138: 'File_138_Birşeyde Zorlandığında' => Word Count: 13
+  Sub-chapter 139: 'File_139_Meguliyetten veya Maişetinin Artması Arzu...' => Word Count: 16
+  Sub-chapter 140: 'File_140_Bir Sultan veya Zalimden Korktuğunda' => Word Count: 132
+  Sub-chapter 141: 'File_141_Şeytan ve Emsali Şeylerden Korkunca' => Word Count: 57
+  Sub-chapter 142: 'File_142_Korku Anında' => Word Count: 13
+  Sub-chapter 143: 'File_143_Şeytan ve Gulyabaninin Kaçması İçin' => Word Count: 77
+  Sub-chapter 144: 'File_144_Vesveseye Mübtela Olunca' => Word Count: 34
+  Sub-chapter 145: 'File_145_Amelde Vesveseye Karşı' => Word Count: 30
+  Sub-chapter 146: 'File_146_Borca Mübtela Olunca' => Word Count: 91
+  Sub-chapter 147: 'File_147_Kendisine Göz Değmiş Olana Edilecek Dua' => Word Count: 59
+  Sub-chapter 148: 'File_148_Mâ'tûha (Bunamışa) Yapılacak Dua' => Word Count: 18
+  Sub-chapter 149: 'File_149_Yılan Akrep vs. Sokmalarında' => Word Count: 24
+  Sub-chapter 150: 'File_150_Yanan Kişiye' => Word Count: 15
+  Sub-chapter 151: 'File_151_İltihap ve Yaralara' => Word Count: 23
+  Sub-chapter 152: 'File_152_Mutazarrır Olup Hayattan Bıktığı An' => Word Count: 15
+  Sub-chapter 153: 'File_153_Göz Ağrılarında' => Word Count: 24
+  Sub-chapter 154: 'File_154_Hummaya Tutulduğunda' => Word Count: 17
+  Sub-chapter 155: 'File_155_Rahatsız olduğunda' => Word Count: 50
+  Sub-chapter 156: 'File_156_Hasta Ziyaretinde' => Word Count: 147
+  Sub-chapter 157: 'File_157_Eceli Henüz Gelmemiş Olan Hastaya' => Word Count: 11
+  Sub-chapter 158: 'File_158_Sekerat Halindeki Kişinin Okuyacağı Dua' => Word Count: 29
+  Sub-chapter 159: 'File_159_Can Çekişen Kimseye Telkin' => Word Count: 15
+  Sub-chapter 160: 'File_160_Ölünün Gözünü Kapadığında' => Word Count: 58
+  Sub-chapter 161: 'File_161_Musibetzedenin Okuyacağı Dua' => Word Count: 19
+  Sub-chapter 162: 'File_162_Taziyede' => Word Count: 162
+  Sub-chapter 163: 'File_163_Cenaze Namazı' => Word Count: 195
+  Sub-chapter 164: 'File_164_Ölüyü Kabre Koyunca' => Word Count: 23
+  Sub-chapter 165: 'File_165_Definden Sonra' => Word Count: 23
+  Sub-chapter 166: 'File_166_Kabir Ziyaretinde' => Word Count: 39
+  Sub-chapter 167: 'File_167_Herhangi Bir Vakte Bağlı Olmayan Dualar' => Word Count: 0
+  Sub-chapter 168: 'File_168_Kur'ân Okuma' => Word Count: 66
+  Sub-chapter 169: 'File_169_Herhangi Bir Hâl ve Vakit ile Kayıtlı Olm...' => Word Count: 988
+  Sub-chapter 170: 'File_170_(Dört Rek'at Namaz Kılar ve Şöyle Dua Ede...' => Word Count: 752
+  Sub-chapter 171: 'File_171_Esmâ-i Hüsna' => Word Count: 554
+  Sub-chapter 172: 'File_172_Esma-i ilahiyenin insanlara azami tecelli...' => Word Count: 512
+  Sub-chapter 173: 'File_173_Her şey esma ve sıfatın tecellisi olduğun...' => Word Count: 194
+  Sub-chapter 174: 'File_174_"Ali" ismi ne anlama gelmektedir? Bu isim...' => Word Count: 82
+  Sub-chapter 175: 'File_175_İsm-i A'zam Duası' => Word Count: 393
+  Sub-chapter 176: 'File_176_Efendiler Efendisine (Tavsiye edilen) Sal...' => Word Count: 694
+  Sub-chapter 177: 'File_177_Nusret ve Galebe Duası' => Word Count: 3106
+  Sub-chapter 178: 'File_178_El-Hizbü'l Hasîn' => Word Count: 585
+  Sub-chapter 179: 'File_179_El-Hizbü'l Masûn' => Word Count: 2759
+  Sub-chapter 180: 'File_180_Ashab-ı Bedir' => Word Count: 9
+  Sub-chapter 181: 'File_181_Şüheda-i Uhud' => Word Count: 0
+  Sub-chapter 182: 'File_182_UHUD ŞEHİTLERİ' => Word Count: 564
+  Sub-chapter 183: 'File_183_NoHeading' => Word Count: 80
+  Sub-chapter 184: 'File_184_NoHeading' => Word Count: 7
+  Sub-chapter 185: 'File_185_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 185
+ Min Word Count: 0
+ Max Word Count: 3106
+ Average Words: 119.55
+ Median Words: 28.00
+
+=== Analyzing 'books\Prizma-1 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 126
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1439
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1120
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 915
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 857
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 558
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 849
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 735
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 786
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 934
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 749
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1281
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1516
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 809
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1249
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1123
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 835
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 674
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 765
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1329
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1274
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 959
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 870
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1433
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 848
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 677
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 968
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1007
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 931
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 721
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 2784
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 835
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1199
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 2048
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1415
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1113
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1726
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1173
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 1706
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 883
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 414
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 783
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 632
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 1096
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 1102
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 1035
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 824
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 48
+ Min Word Count: 0
+ Max Word Count: 2784
+ Average Words: 1023.02
+ Median Words: 932.50
+
+=== Analyzing 'books\Prizma-2 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 127
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 803
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 616
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 802
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1925
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1090
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1496
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 798
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 623
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1286
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 675
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 695
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 772
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 640
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 699
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 831
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1026
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 667
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 619
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 589
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1522
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1933
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 678
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 460
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 606
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 824
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1604
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1022
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 675
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 605
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 592
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 732
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 867
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1482
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 877
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 650
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 708
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 599
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 1274
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 995
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 1333
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 500
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 973
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 662
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 1578
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 490
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 595
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 1517
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 49
+ Min Word Count: 0
+ Max Word Count: 1933
+ Average Words: 880.24
+ Median Words: 732.00
+
+=== Analyzing 'books\Prizma-3 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 127
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1193
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 520
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 844
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 854
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 591
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 926
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1322
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 935
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 559
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 774
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 887
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 942
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 722
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 977
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1046
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 598
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1077
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 877
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 795
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 477
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1229
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 657
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 582
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 578
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 841
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 985
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 876
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1896
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1369
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 802
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 5251
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 626
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1088
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 945
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 436
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 895
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 894
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 748
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 738
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 564
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 852
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 379
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 774
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 706
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 1045
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 1002
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 499
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 1266
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 480
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 51
+ Min Word Count: 0
+ Max Word Count: 5251
+ Average Words: 902.86
+ Median Words: 844.00
+
+=== Analyzing 'books\Prizma-4 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 126
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1292
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 5035
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1719
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 936
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 684
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 629
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 646
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1495
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 609
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1023
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 948
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 626
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1381
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1345
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1025
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1795
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1426
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 743
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 802
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1231
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 9272
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1144
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 875
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 668
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1533
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1361
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1375
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 936
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1329
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 2611
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 2120
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 708
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 838
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 872
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1771
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 767
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 764
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 1185
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 745
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 911
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 688
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 2860
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 879
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 45
+ Min Word Count: 0
+ Max Word Count: 9272
+ Average Words: 1371.73
+ Median Words: 948.00
+
+=== Analyzing 'books\Prizma-5 (Kendi İklimimiz) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 135
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1210
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1072
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2024
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1516
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1244
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 5266
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 929
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 805
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1809
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1369
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 822
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1333
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1071
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1071
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1299
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1080
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 842
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 780
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 736
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1421
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1851
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 749
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2031
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 833
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 865
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1076
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 745
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 2157
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1379
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1101
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1318
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 936
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 925
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1166
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 681
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1488
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1244
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 1092
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 40
+ Min Word Count: 0
+ Max Word Count: 5266
+ Average Words: 1236.78
+ Median Words: 1086.00
+
+=== Analyzing 'books\Prizma-6 (Yol Mulahazaları) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 134
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 771
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1565
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 861
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2354
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 887
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1179
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 3381
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1382
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1390
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1420
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1486
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 816
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 772
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1073
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 650
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1060
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 763
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1988
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1124
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1434
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 983
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1854
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 859
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1073
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 692
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1514
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1123
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 4006
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1588
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 536
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 831
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 434
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1036
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1521
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1087
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 37
+ Min Word Count: 0
+ Max Word Count: 4006
+ Average Words: 1233.16
+ Median Words: 1073.00
+
+=== Analyzing 'books\Prizma-7 (Zihin Harmanı) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 134
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 427
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1742
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 920
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 625
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 633
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 839
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 895
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1202
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 652
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 681
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1795
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 785
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2271
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1027
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1367
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 934
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1673
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 432
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 954
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 919
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 888
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 913
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 5355
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1455
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1718
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 2911
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 2076
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1193
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 585
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 585
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 290
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 522
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 659
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 826
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1137
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1489
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 38
+ Min Word Count: 0
+ Max Word Count: 5355
+ Average Words: 1144.97
+ Median Words: 916.00
+
+=== Analyzing 'books\Prizma-8 (Çizgimizi Hecelerken) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 134
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 702
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2694
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1321
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 455
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1043
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 784
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 554
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 508
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1010
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 562
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1686
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1583
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 828
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1314
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 2985
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1381
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1096
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 687
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 684
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 834
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1323
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1640
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 987
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 549
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 671
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 641
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1129
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 774
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1845
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 551
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 421
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 496
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 315
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 298
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 257
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 459
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 716
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 937
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 941
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 827
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 832
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 4337
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 682
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 778
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 705
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 1007
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 1685
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 913
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 533
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 854
+  Sub-chapter 52: 'File_52_NoHeading' => Word Count: 868
+  Sub-chapter 53: 'File_53_NoHeading' => Word Count: 793
+  Sub-chapter 54: 'File_54_NoHeading' => Word Count: 1596
+  Sub-chapter 55: 'File_55_NoHeading' => Word Count: 1068
+  Sub-chapter 56: 'File_56_NoHeading' => Word Count: 660
+  Sub-chapter 57: 'File_57_NoHeading' => Word Count: 1980
+  Sub-chapter 58: 'File_58_NoHeading' => Word Count: 1332
+  Sub-chapter 59: 'File_59_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 59
+ Min Word Count: 0
+ Max Word Count: 4337
+ Average Words: 1004.15
+ Median Words: 828.00
+
+=== Analyzing 'books\Prizma-9 (Kendi Ruhumuzu Ararken) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 0
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 9
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 69
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 645
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1149
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1278
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 928
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1787
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1037
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1466
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 908
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1415
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1421
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 928
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 916
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 666
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 690
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1362
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 738
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 161
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 4
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1009
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 990
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 150
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 619
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1251
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 681
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 993
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 510
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 690
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 107
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1114
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1489
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1076
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 526
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 513
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 297
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 302
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 416
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 5
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 1201
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 361
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 1136
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 1365
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 660
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 403
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 211
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 445
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 316
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 965
+  Sub-chapter 52: 'File_52_NoHeading' => Word Count: 1383
+  Sub-chapter 53: 'File_53_NoHeading' => Word Count: 300
+  Sub-chapter 54: 'File_54_NoHeading' => Word Count: 876
+  Sub-chapter 55: 'File_55_NoHeading' => Word Count: 479
+  Sub-chapter 56: 'File_56_NoHeading' => Word Count: 96
+  Sub-chapter 57: 'File_57_NoHeading' => Word Count: 168
+  Sub-chapter 58: 'File_58_NoHeading' => Word Count: 379
+  Sub-chapter 59: 'File_59_NoHeading' => Word Count: 1382
+  Sub-chapter 60: 'File_60_NoHeading' => Word Count: 593
+  Sub-chapter 61: 'File_61_NoHeading' => Word Count: 1357
+  Sub-chapter 62: 'File_62_NoHeading' => Word Count: 1652
+  Sub-chapter 63: 'File_63_NoHeading' => Word Count: 738
+  Sub-chapter 64: 'File_64_NoHeading' => Word Count: 3
+  Sub-chapter 65: 'File_65_NoHeading' => Word Count: 1454
+  Sub-chapter 66: 'File_66_NoHeading' => Word Count: 934
+  Sub-chapter 67: 'File_67_NoHeading' => Word Count: 1200
+  Sub-chapter 68: 'File_68_NoHeading' => Word Count: 1265
+  Sub-chapter 69: 'File_69_NoHeading' => Word Count: 773
+  Sub-chapter 70: 'File_70_NoHeading' => Word Count: 702
+  Sub-chapter 71: 'File_71_NoHeading' => Word Count: 1029
+  Sub-chapter 72: 'File_72_NoHeading' => Word Count: 1224
+
+--- Summary ---
+ Total Sub-chapters: 72
+ Min Word Count: 0
+ Max Word Count: 1787
+ Average Words: 769.00
+ Median Words: 738.00
+
+=== Analyzing 'books\Ruhumuzun Heykelini Dikerken - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 130
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1157
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 541
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1189
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1416
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1176
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1141
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2562
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 3306
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1497
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 4014
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1241
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1420
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 947
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 2065
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1166
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1295
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1083
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1928
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1820
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1590
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 22
+ Min Word Count: 0
+ Max Word Count: 4014
+ Average Words: 1485.64
+ Median Words: 1268.00
+
+=== Analyzing 'books\Ruhumuzun Heykelini Dikerken-2 (Kendi Dunyamiza Dogru) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 130
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 2722
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1557
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2225
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3213
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 2726
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2641
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 3059
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 4627
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1950
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1497
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1995
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2834
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2101
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 6595
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 4690
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 3081
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2677
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 3097
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1409
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 3154
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 2231
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1077
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 967
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 25
+ Min Word Count: 0
+ Max Word Count: 6595
+ Average Words: 2490.20
+ Median Words: 2641.00
+
+=== Analyzing 'books\Sohbet Atmosferi - M. Fethullah Gulen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 0
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 76
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1390
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2898
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1316
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1145
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 745
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1024
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 479
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 339
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 518
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 380
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 928
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 695
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 621
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 395
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 236
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1041
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 550
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 616
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 347
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1208
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 930
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 382
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 494
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 217
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 307
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 327
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 428
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 646
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1044
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 668
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 297
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 796
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 453
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 2
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 985
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 791
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 968
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 585
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 536
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 1286
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 930
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 214
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 301
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 549
+  Sub-chapter 49: 'File_49_NoHeading' => Word Count: 1020
+  Sub-chapter 50: 'File_50_NoHeading' => Word Count: 550
+  Sub-chapter 51: 'File_51_NoHeading' => Word Count: 354
+  Sub-chapter 52: 'File_52_NoHeading' => Word Count: 386
+  Sub-chapter 53: 'File_53_NoHeading' => Word Count: 521
+  Sub-chapter 54: 'File_54_NoHeading' => Word Count: 441
+  Sub-chapter 55: 'File_55_NoHeading' => Word Count: 602
+  Sub-chapter 56: 'File_56_NoHeading' => Word Count: 1141
+  Sub-chapter 57: 'File_57_NoHeading' => Word Count: 277
+  Sub-chapter 58: 'File_58_NoHeading' => Word Count: 676
+  Sub-chapter 59: 'File_59_NoHeading' => Word Count: 816
+  Sub-chapter 60: 'File_60_NoHeading' => Word Count: 587
+  Sub-chapter 61: 'File_61_NoHeading' => Word Count: 613
+  Sub-chapter 62: 'File_62_NoHeading' => Word Count: 507
+  Sub-chapter 63: 'File_63_NoHeading' => Word Count: 562
+  Sub-chapter 64: 'File_64_NoHeading' => Word Count: 1252
+  Sub-chapter 65: 'File_65_NoHeading' => Word Count: 210
+  Sub-chapter 66: 'File_66_NoHeading' => Word Count: 2
+  Sub-chapter 67: 'File_67_NoHeading' => Word Count: 974
+  Sub-chapter 68: 'File_68_NoHeading' => Word Count: 1615
+  Sub-chapter 69: 'File_69_NoHeading' => Word Count: 1375
+  Sub-chapter 70: 'File_70_NoHeading' => Word Count: 1185
+  Sub-chapter 71: 'File_71_NoHeading' => Word Count: 460
+  Sub-chapter 72: 'File_72_NoHeading' => Word Count: 927
+  Sub-chapter 73: 'File_73_NoHeading' => Word Count: 571
+  Sub-chapter 74: 'File_74_NoHeading' => Word Count: 725
+  Sub-chapter 75: 'File_75_NoHeading' => Word Count: 1040
+
+--- Summary ---
+ Total Sub-chapters: 75
+ Min Word Count: 0
+ Max Word Count: 2898
+ Average Words: 673.01
+ Median Words: 585.00
+
+=== Analyzing 'books\Sonsuz Nur-1 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 129
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 532
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 3005
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 944
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1553
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1092
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2835
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2458
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1151
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 4168
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2800
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 735
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2091
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 21033
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1719
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 8706
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 5172
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 5926
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 21494
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2807
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 3874
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 3818
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 12587
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1500
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 5869
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 6227
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1251
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 534
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 776
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 3145
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 3916
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 4006
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 33
+ Min Word Count: 0
+ Max Word Count: 21494
+ Average Words: 4177.36
+ Median Words: 2807.00
+
+=== Analyzing 'books\Sonsuz Nur-2 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 128
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 4396
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 3966
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 3406
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1645
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1647
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2321
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2800
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2034
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 5930
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 541
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 2086
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1401
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 559
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 2692
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 10985
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 23267
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 7352
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1938
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2635
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1499
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 207
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 3397
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2496
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 5450
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 4998
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 2709
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 770
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 3005
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 10167
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 4553
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 735
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1800
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 34
+ Min Word Count: 0
+ Max Word Count: 23267
+ Average Words: 3632.79
+ Median Words: 2565.50
+
+=== Analyzing 'books\Varlığın Metafizik Boyutu - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 133
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 415
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 3678
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1948
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 20525
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 21553
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 32611
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 986
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 9
+ Min Word Count: 0
+ Max Word Count: 32611
+ Average Words: 9094.33
+ Median Words: 1948.00
+
+=== Analyzing 'books\Yakaran Gonuller - el Kulub'd Daria Tercumesi.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 0
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 6
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 86
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 15
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2423
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1323
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 5418
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 10894
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 170021
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 3177
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 10288
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 13384
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1248
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1667
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 3012
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 4282
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 10722
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 208
+
+--- Summary ---
+ Total Sub-chapters: 18
+ Min Word Count: 0
+ Max Word Count: 170021
+ Average Words: 13231.89
+ Median Words: 2717.50
+
+=== Analyzing 'books\Yaratılış Gerçeği ve Evrim - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 138
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 125
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1378
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 871
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 155
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 994
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 2462
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1642
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2317
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1192
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1192
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1612
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2918
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1857
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 4151
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 377
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 227
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 18
+ Min Word Count: 0
+ Max Word Count: 4151
+ Average Words: 1311.56
+ Median Words: 1192.00
+
+=== Analyzing 'books\Çağ ve Nesil - 1 (Çağ ve Nesil) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 140
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1483
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 715
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 695
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 990
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 801
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 509
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 578
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 597
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 503
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 626
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1116
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1189
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 529
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 349
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 502
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 812
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 853
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 661
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 961
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 912
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 757
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 646
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1296
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 928
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 690
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 718
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1774
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1049
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 728
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1119
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 743
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 969
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 934
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 874
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 841
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 971
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1068
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 39
+ Min Word Count: 0
+ Max Word Count: 1774
+ Average Words: 810.92
+ Median Words: 801.00
+
+=== Analyzing 'books\Çağ ve Nesil - 2 (Buhranlar Anaforunda İnsan) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 0
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 131
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 367
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1143
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 685
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 781
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 813
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 632
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 672
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 710
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 781
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 557
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1037
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 635
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 941
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 857
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 570
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 998
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 910
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 983
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 940
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 814
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 736
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 735
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 588
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 863
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 812
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 725
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 762
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 784
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 670
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 541
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 662
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 791
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 566
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 557
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 620
+
+--- Summary ---
+ Total Sub-chapters: 37
+ Min Word Count: 0
+ Max Word Count: 1143
+ Average Words: 712.68
+ Median Words: 735.00
+
+=== Analyzing 'books\Çağ ve Nesil - 3 (Yitirilmiş Cennete Dogru) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 131
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 551
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1034
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1103
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 757
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 624
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 549
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 754
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 610
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 699
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 729
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 545
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 886
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 522
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 599
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 533
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 486
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 603
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 497
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 782
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 959
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 616
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 988
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 926
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 658
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 427
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 585
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 561
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1021
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 729
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 885
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 746
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 687
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 577
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 532
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 650
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 37
+ Min Word Count: 0
+ Max Word Count: 1103
+ Average Words: 663.27
+ Median Words: 624.00
+
+=== Analyzing 'books\Çağ ve Nesil - 4 (Zamanın Altın Dilimi) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 132
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 659
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 797
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 928
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 895
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1036
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 855
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 888
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 749
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1203
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1161
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1277
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1917
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 948
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 565
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 752
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 529
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 295
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 818
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2314
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 722
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 770
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 809
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1161
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 731
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 840
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 861
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1422
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 698
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1380
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 801
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 952
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 850
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 718
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1501
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 887
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 289
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 289
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 351
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 250
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 578
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 1174
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 1059
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 1055
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 1101
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 1828
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 818
+  Sub-chapter 48: 'File_48_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 48
+ Min Word Count: 0
+ Max Word Count: 2314
+ Average Words: 887.77
+ Median Words: 845.00
+
+=== Analyzing 'books\Çağ ve Nesil - 5 (Günler Bahari Soluklarken) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 132
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1110
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2383
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 992
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1208
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1215
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 493
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 794
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 941
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1025
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1230
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 747
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 957
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1140
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1262
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1595
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 950
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1250
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1020
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1012
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 755
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1385
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1440
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1315
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 961
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1165
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 825
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 470
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1051
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1653
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 792
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 32
+ Min Word Count: 0
+ Max Word Count: 2383
+ Average Words: 1039.62
+ Median Words: 1022.50
+
+=== Analyzing 'books\Çağ ve Nesil - 6 (Yeşeren Düşünceler) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 131
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 727
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1181
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1224
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1281
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 899
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1482
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 2216
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1014
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1419
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1055
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1140
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 3171
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 2181
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1089
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1128
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1119
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1474
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1112
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 819
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1114
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 986
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 885
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 801
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 981
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 956
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1232
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1113
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 950
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 774
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1000
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 912
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 836
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1592
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1058
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1106
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1334
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1373
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 39
+ Min Word Count: 0
+ Max Word Count: 3171
+ Average Words: 1150.38
+ Median Words: 1106.00
+
+=== Analyzing 'books\Çağ ve Nesil - 7 (Işığın Göründüğü Ufuk) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 132
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1104
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1183
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 802
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1517
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1153
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1909
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1081
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1196
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1497
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1913
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1432
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1156
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1319
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1437
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 904
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 998
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 950
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1280
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1388
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1492
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 871
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1147
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1658
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1516
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 1241
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1417
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1721
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1440
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 1629
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 1654
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 1413
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 1176
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 1762
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 1531
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 3734
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1561
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 1312
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 1867
+  Sub-chapter 40: 'File_40_NoHeading' => Word Count: 1798
+  Sub-chapter 41: 'File_41_NoHeading' => Word Count: 1338
+  Sub-chapter 42: 'File_42_NoHeading' => Word Count: 1295
+  Sub-chapter 43: 'File_43_NoHeading' => Word Count: 1634
+  Sub-chapter 44: 'File_44_NoHeading' => Word Count: 1450
+  Sub-chapter 45: 'File_45_NoHeading' => Word Count: 1332
+  Sub-chapter 46: 'File_46_NoHeading' => Word Count: 2371
+  Sub-chapter 47: 'File_47_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 47
+ Min Word Count: 0
+ Max Word Count: 3734
+ Average Words: 1398.11
+ Median Words: 1413.00
+
+=== Analyzing 'books\Çağ ve Nesil - 8 (Örnekleri Kendinden Bir Hareket) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 133
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 3771
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1188
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1130
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 1337
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1629
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1500
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1387
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1744
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 1590
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1778
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1899
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1997
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1242
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 2409
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 954
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 5289
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2635
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1450
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2016
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 2766
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1628
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1829
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1642
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 25
+ Min Word Count: 0
+ Max Word Count: 5289
+ Average Words: 1797.72
+ Median Words: 1629.00
+
+=== Analyzing 'books\Çağ ve Nesil - 9 (Sukutun Cigliklari) - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 134
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1004
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1178
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1744
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2060
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 2363
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1606
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1186
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1586
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 990
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 938
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1046
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 910
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1062
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 982
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1331
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1437
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1278
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1484
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 1029
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 909
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 1051
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 1251
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 1865
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1164
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 953
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 1102
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 1276
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 1050
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 924
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 818
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 865
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 715
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 907
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 938
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 1016
+  Sub-chapter 37: 'File_37_NoHeading' => Word Count: 1469
+  Sub-chapter 38: 'File_38_NoHeading' => Word Count: 901
+  Sub-chapter 39: 'File_39_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 39
+ Min Word Count: 0
+ Max Word Count: 2363
+ Average Words: 1141.59
+ Median Words: 1050.00
+
+=== Analyzing 'books\Çekirdekten Çınara - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 129
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 2230
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 2666
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 4675
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 5385
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 4961
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 5449
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 4876
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 3669
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2965
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1665
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 548
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 13
+ Min Word Count: 0
+ Max Word Count: 5449
+ Average Words: 3016.77
+ Median Words: 2965.00
+
+=== Analyzing 'books\Ölçü veya Yoldaki Işıklar - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 126
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 292
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 663
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 740
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 13152
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 6171
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 6273
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 10090
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 9
+ Min Word Count: 0
+ Max Word Count: 13152
+ Average Words: 4167.44
+ Median Words: 740.00
+
+=== Analyzing 'books\Ölüm ve Ötesi Hayat - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 125
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 306
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 536
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 3890
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 2647
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1669
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 283
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 595
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 286
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 300
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 222
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 579
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 469
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 601
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 818
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 257
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 1303
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1334
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 524
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 546
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 311
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 22
+ Min Word Count: 0
+ Max Word Count: 3890
+ Average Words: 800.05
+ Median Words: 530.00
+
+=== Analyzing 'books\İ'la-yı Kelimetullah veya Cihad - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 60
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 416
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 584
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 3585
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 487
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 551
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 358
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1498
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 1000
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 553
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 1013
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1010
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 1423
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1323
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 1887
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 1575
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 2435
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2064
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 1588
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 414
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 712
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 451
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 141
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 332
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 180
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 415
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 258
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 280
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 822
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 30
+ Min Word Count: 0
+ Max Word Count: 3585
+ Average Words: 913.83
+ Median Words: 568.50
+
+=== Analyzing 'books\İnancin Gölgesinde-1 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 125
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 958
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 1803
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 1899
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 495
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1661
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1303
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 3087
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 2753
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2175
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 3525
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1256
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 2923
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 5292
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 8042
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 4815
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 2881
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 2017
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 692
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 2200
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1697
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 502
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 4960
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 423
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 25
+ Min Word Count: 0
+ Max Word Count: 8042
+ Average Words: 2299.36
+ Median Words: 1899.00
+
+=== Analyzing 'books\İnancin Gölgesinde-2 - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 124
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1472
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 693
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2091
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3108
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1054
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1981
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1407
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 3050
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2471
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2960
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1624
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 184
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1922
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 388
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 693
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 242
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1674
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 4645
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 5389
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1347
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 595
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 571
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2029
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1503
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 380
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 341
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 376
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 129
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 434
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 742
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 632
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 629
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 894
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 871
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 36
+ Min Word Count: 0
+ Max Word Count: 5389
+ Average Words: 1351.25
+ Median Words: 882.50
+
+=== Analyzing 'books\İrsad Ekseni - M. Fethullah Gülen.epub' ===
+  Sub-chapter 1: 'File_1_NoHeading' => Word Count: 124
+  Sub-chapter 2: 'File_2_NoHeading' => Word Count: 1472
+  Sub-chapter 3: 'File_3_NoHeading' => Word Count: 693
+  Sub-chapter 4: 'File_4_NoHeading' => Word Count: 2091
+  Sub-chapter 5: 'File_5_NoHeading' => Word Count: 3108
+  Sub-chapter 6: 'File_6_NoHeading' => Word Count: 1054
+  Sub-chapter 7: 'File_7_NoHeading' => Word Count: 1981
+  Sub-chapter 8: 'File_8_NoHeading' => Word Count: 1407
+  Sub-chapter 9: 'File_9_NoHeading' => Word Count: 3050
+  Sub-chapter 10: 'File_10_NoHeading' => Word Count: 2471
+  Sub-chapter 11: 'File_11_NoHeading' => Word Count: 2960
+  Sub-chapter 12: 'File_12_NoHeading' => Word Count: 1624
+  Sub-chapter 13: 'File_13_NoHeading' => Word Count: 184
+  Sub-chapter 14: 'File_14_NoHeading' => Word Count: 1922
+  Sub-chapter 15: 'File_15_NoHeading' => Word Count: 388
+  Sub-chapter 16: 'File_16_NoHeading' => Word Count: 693
+  Sub-chapter 17: 'File_17_NoHeading' => Word Count: 242
+  Sub-chapter 18: 'File_18_NoHeading' => Word Count: 1674
+  Sub-chapter 19: 'File_19_NoHeading' => Word Count: 4645
+  Sub-chapter 20: 'File_20_NoHeading' => Word Count: 5389
+  Sub-chapter 21: 'File_21_NoHeading' => Word Count: 1347
+  Sub-chapter 22: 'File_22_NoHeading' => Word Count: 595
+  Sub-chapter 23: 'File_23_NoHeading' => Word Count: 571
+  Sub-chapter 24: 'File_24_NoHeading' => Word Count: 2029
+  Sub-chapter 25: 'File_25_NoHeading' => Word Count: 1503
+  Sub-chapter 26: 'File_26_NoHeading' => Word Count: 380
+  Sub-chapter 27: 'File_27_NoHeading' => Word Count: 341
+  Sub-chapter 28: 'File_28_NoHeading' => Word Count: 376
+  Sub-chapter 29: 'File_29_NoHeading' => Word Count: 129
+  Sub-chapter 30: 'File_30_NoHeading' => Word Count: 434
+  Sub-chapter 31: 'File_31_NoHeading' => Word Count: 742
+  Sub-chapter 32: 'File_32_NoHeading' => Word Count: 632
+  Sub-chapter 33: 'File_33_NoHeading' => Word Count: 629
+  Sub-chapter 34: 'File_34_NoHeading' => Word Count: 894
+  Sub-chapter 35: 'File_35_NoHeading' => Word Count: 871
+  Sub-chapter 36: 'File_36_NoHeading' => Word Count: 0
+
+--- Summary ---
+ Total Sub-chapters: 36
+ Min Word Count: 0
+ Max Word Count: 5389
+ Average Words: 1351.25
+ Median Words: 882.50
+
